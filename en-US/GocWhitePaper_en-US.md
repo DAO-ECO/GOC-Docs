@@ -340,14 +340,14 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 ![](images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
-**3.3.1 Token 持有者**
+**3.3.1 Token holder**
 
-| 角色描述    | 系统的最终权益所有者        |
-| ------- | ----------------- |
-| 基本要求    | 只要持有代币即可          |
-| 权利和义务   | 投票产生区块生产节点（BP）    |
-| 系统中使用代币 | 锁定代币对区块生产节点进行投票   |
-| 系统中获取代币 | 加入系统治理节点，获取治理投票收益 |
+| Role Description       | The ultimate owner of the system |
+| ---------------------- | -------------------------------- |
+| Basic Requirements     | as long as one holds the token   |
+| Rights and Obligations | 投票产生区块生产节点（BP）                   |
+| 系统中使用代币                | 锁定代币对区块生产节点进行投票                  |
+| 系统中获取代币                | 加入系统治理节点，获取治理投票收益                |
 
 1. 锁定代币加入系统治理节点（GN）
 
