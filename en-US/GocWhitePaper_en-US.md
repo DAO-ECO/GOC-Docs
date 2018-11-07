@@ -367,7 +367,7 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 ![](images/goc/226da22590d260bc732f3102f8532e4d.png)
 
-**3.3. 2 区块生产节点（Block Producer，BP）**
+**Block Producer**
 
 |                                | As the maintainer of the blockchain (to produce blocks), Block Producers do not have much power, but serve as the last ditch in the system. |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
