@@ -342,12 +342,12 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 **3.3.1 Token holder**
 
-| Role Description       | The ultimate owner of the system |
-| ---------------------- | -------------------------------- |
-| Basic Requirements     | as long as one holds the token   |
-| Rights and Obligations | 投票产生区块生产节点（BP）                   |
-| 系统中使用代币                | 锁定代币对区块生产节点进行投票                  |
-| 系统中获取代币                | 加入系统治理节点，获取治理投票收益                |
+| Role Description         | The ultimate owner of the system       |
+| ------------------------ | -------------------------------------- |
+| Basic Requirements       | as long as one holds the token         |
+| Rights and Obligations   | Vote to generate Block Producers (BP)  |
+| Use tokens in the system | Lock tokens to vote on block producers |
+| Use tokens in the system | Lock tokens to vote on block producers |
 
 1. 锁定代币加入系统治理节点（GN）
 
