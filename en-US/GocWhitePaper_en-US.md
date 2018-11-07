@@ -332,11 +332,11 @@ The main participating roles in GOC public chain governance include: token holde
 
 ## 3.3 Basic restrictions between ecological roles
 
-> 本节对生态参与者在扮演不同角色时的基本要求、权利与义务、代币使用方式与激励方式做出了详细的描述。
+> This section provides a detailed description of the basic requirements, rights and obligations, and usage of the tokens, and the incentives used by ecological participants in different roles.
 
 ![](images/goc/729642e7e1d96aee0e8860afa5bbc76d.png)
 
-其中，各角色在整个生态中的权利与义务的约定，与治理系统的具体运作流程紧密相关，在图 4 中，初步设计了 GOC 系统运作初期，生态中各角色参与治理的基本流程和相应的执行前置条件。但随着社区的发展，根据治理实践及社区成员决策，相关治理流程将可进行优化与调整，同时各角色所承担的权利与义务等也将发生相应的变化。
+The rights and obligations of each role in the entire ecology are closely related to the operational flow of the governance system, Figure 4 shows a preliminary design of the early stages of the GOC system. At this stage, each role in the ecological system participates in the basic governance process and corresponding pre-conditions of the implementation. However, as the community develops, relevant governance processes could be adjusted and optimized according to governance practices and community member decisions. In the meantime, the rights and obligations of each role will also change accordingly. 
 
 ![](images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
