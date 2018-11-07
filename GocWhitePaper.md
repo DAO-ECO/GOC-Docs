@@ -507,11 +507,7 @@ chapter 2 2.2 GOC 定位
 3.1 生态参与角色
 ----------------
 
->   GOC 公链治理方面主要的参与角色包括：代币持有者、区块生产节点（Block
-
->   Producer，BP）、系统治理节点（Governance Node，GN）、第三方服务提供商、
-
->   dApp 开发者等。
+GOC 公链治理方面主要的参与角色包括：代币持有者、区块生产节点（Block Producer，BP）、系统治理节点（Governance Node，GN）、第三方服务提供商、 dApp 开发者等。
 
 **chapter 3**
 
