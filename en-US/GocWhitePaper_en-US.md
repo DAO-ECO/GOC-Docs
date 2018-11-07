@@ -342,42 +342,42 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 **3.3.1 Token holder**
 
-| Role Description         | The ultimate owner of the system       |
-| ------------------------ | -------------------------------------- |
-| Basic Requirements       | as long as one holds the token         |
-| Rights and Obligations   | Vote to generate Block Producers (BP)  |
-| Use tokens in the system | Lock tokens to vote on block producers |
-| Use tokens in the system | Lock tokens to vote on block producers |
+| Role Description            | The ultimate owner of the system                           |
+| --------------------------- | ---------------------------------------------------------- |
+| Basic Requirements          | as long as one holds the token                             |
+| Rights and Obligations      | Vote to generate Block Producers (BP)                      |
+| Use tokens in the system    | Lock tokens to vote on block producers                     |
+| Obtain tokens in the system | Join the governance node to get governance voting earnings |
 
-1. 锁定代币加入系统治理节点（GN）
+1. Lock tokens to join the Governance node (GN)
 
-2. 支付一定代币提请提案
+2. Pay a certain amount of tokens to submit the proposal
 
-3. 进行公投等其他动作，所有涉及代码修改（包括治理参数、系统通胀分配等） 都必须经过公投方能进行
+3. Other actions, such as a referendum, actions involving code changes (including governance parameters, system inflation allocation, etc.) must be agreed by a referendum.
 
-4. 锁定代币加入系统治理节点
+4. Lock tokens to join governance node
 
-5. 支付一定数量代币提请提案
+5. Pay a certain amount of tokens to submit the proposal
 
-6. 若收到提案被诉，并最终通过，使用代币进行赔偿，并支付使用的第三方服务
+6. If the proposal is filed and finally passed, tokens will be paid as compensation and third-party service used will be paid. 
 
-7. 锁定代币进行公投
+7. Lock the token to conduct a referendum
 
-8. 提请提案获得通过获得奖励/赔偿
+8. Submit a proposal to get a reward/compensation
 
 **chapter 3**
 
 ![](images/goc/226da22590d260bc732f3102f8532e4d.png)
 
-**3.3. 2 区块生产节点（Block Producer，BP）**
+**Block Producer**
 
-|         | 区块链的维护者（生产区块），没有很大的权力，但是作为系统中最后一道防线 |
-| ------- | ----------------------------------- |
-| 角色描述    | 持有集体一票否决权                           |
-| 基本要求    | 至少拥有起码的资源和技术支持，其他待定                 |
-| 权利和义务   | 生产区块，维护主链正常运行                       |
-| 系统中使用代币 | 无                                   |
-| 系统中获取代币 | 一部分通胀收益将奖励给区块生产节点作为系统维护收益           |
+|                                | As the maintainer of the blockchain (to produce blocks), Block Producers do not have much power, but serve as the last ditch in the system. |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Role rescription               | hold the collective veto right                                                                                                              |
+| Basic requirements             | At least have minimum resources and technical support, other requirements are pending                                                       |
+| Rights and obligations         | Produce blocks to maintain normal operation of the main chain                                                                               |
+| Tokens are used in the system. | No                                                                                                                                          |
+| Obtain tokens in the system    | A portion of the inflation gains will be awarded to the block producers as a system maintenance earnings.                                   |
 
 1. 当系统治理节点 GN 的决策出现重大失误，或者其决策严重偏离公允，伤害系统利益，那么可以行使集体一票否决权，防止决策实施
 
