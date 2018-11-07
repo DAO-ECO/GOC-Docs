@@ -365,11 +365,9 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 8. Submit a proposal to get a reward/compensation
 
-**chapter 3**
-
 ![](images/goc/226da22590d260bc732f3102f8532e4d.png)
 
-**Block Producer**
+**3.3. 2 区块生产节点（Block Producer，BP）**
 
 |                                | As the maintainer of the blockchain (to produce blocks), Block Producers do not have much power, but serve as the last ditch in the system. |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -379,34 +377,17 @@ The rights and obligations of each role in the entire ecology are closely relate
 | Tokens are used in the system. | No                                                                                                                                          |
 | Obtain tokens in the system    | A portion of the inflation gains will be awarded to the block producers as a system maintenance earnings.                                   |
 
-1. 当系统治理节点 GN 的决策出现重大失误，或者其决策严重偏离公允，伤害系统利益，那么可以行使集体一票否决权，防止决策实施
-
-**chapter 3**
+1. If the governance node GN makes major mistakes in decisioning, or its decision is seriously deviated from fairness and harms the interests of the system, then the collective veto right can be exercised to prevent decision implementation.
 
 ![](images/goc/ae2bdaab3894c2d8e8fce432932e72f3.png)
 
 **3.3.3 系统治理节点（Governance Node, GN）**
 
-**chapter 3**
-
 ![](images/goc/99a5cdfe10dd40af2156f112147c459f.png)
 
 **3.3.4 第三方服务提供商**
 
-|         | 为生态系统提供第三方服务，其中包括为仲裁过程提供包括审计、公证、尽职        |
-| ------- | ----------------------------------------- |
-| 角色描述    | 调查等服务。                                    |
-| 基本要求    | 无。如果没有初始资金，第三方服务提供商可以通过发起项目资金申请提案来获取启动资金。 |
-| 权利和义务   | 为相关代币持有者提供第三方服务。                          |
-| 系统中使用代币 | 无。                                        |
-|         | 1. 提供第三方服务获取服务报酬；                         |
-| 系统中获取代币 | 2. 通过提交提案申请初始启动资金。                        |
-
-**chapter 3**
-
-### <./media/image44.png>
-
-![](images/goc/2bbbe1ace0c09779aa75ace151b62e90.png)
+| | 为生态系统提供第三方服务，其中包括为仲裁过程提供包括审计、公证、尽职 | |\---\---\---\---\----|\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---\---| | 角色描述 | 调查等服务。 | | 基本要求 | 无。如果没有初始资金，第三方服务提供商可以通过发起项目资金申请提案来获取启动资金。 | | 权利和义务 | 为相关代币持有者提供第三方服务。 | | 系统中使用代币 | 无。 | | | 1. 提供第三方服务获取服务报酬； | | 系统中获取代币 | 2. 通过提交提案申请初始启动资金。 | ![](images/goc/2bbbe1ace0c09779aa75ace151b62e90.png)
 
 3.3.5 dApp 开发者
 
