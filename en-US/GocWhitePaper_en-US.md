@@ -312,15 +312,15 @@ BM 崇尚自由及具有竞争的区块链系统，这样的系统不但能够�
 
 ## 3.1 Ecological participation role
 
-GOC 公链治理方面主要的参与角色包括：代币持有者、区块生产节点（Block Producer，BP）、系统治理节点（Governance Node，GN）、第三方服务提供商、 dApp 开发者等。
+The main participating roles in GOC public chain governance include: token holders, block producers (BP), Governance Node (GN), third-party service provider, dApp developers, etc.
 
 **chapter 3**
 
 ![](images/goc/2a29d70d229df67495fe60804d2db144.png)
 
-> 图 1 GOC生态典型角色
+> Figure 1 GOC ecological typical role
 
-## 3.2 生态角色间的基本约束关系
+## 3.2 Basic restriction relations between ecological roles
 
 > 在 GOC 生态中，代币持有者、区块生产节点和系统治理节点三类角色间具有制约的关系（参见图2）；其中，一是区块生产节点与系统治理节点之间，具有双向制约关系，以确保在治理系统的运作过程中，双方形成相互制衡关系，避免出现一方权利失衡的现象出现，以保证治理系统的健康运转。二是代币持有者通过投票或锁定代币成为治理节点，与区块生产节点和 GN 节点间形成单向制约关系。三是在代币持有者群体内，通过降低成为 GN 节点的门槛，使得少量代币持有者（散户）对大量代币持有者（大户）的制约关系，避免出现“寡头”垄断生态治理的现象。
 
