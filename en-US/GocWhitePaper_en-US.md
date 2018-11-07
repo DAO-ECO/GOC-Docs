@@ -314,35 +314,29 @@ BM 崇尚自由及具有竞争的区块链系统，这样的系统不但能够�
 
 The main participating roles in GOC public chain governance include: token holders, block producers (BP), Governance Node (GN), third-party service provider, dApp developers, etc.
 
-**chapter 3**
-
 ![](images/goc/2a29d70d229df67495fe60804d2db144.png)
 
 > Figure 1 GOC ecological typical role
 
 ## 3.2 Basic restriction relations between ecological roles
 
-> 在 GOC 生态中，代币持有者、区块生产节点和系统治理节点三类角色间具有制约的关系（参见图2）；其中，一是区块生产节点与系统治理节点之间，具有双向制约关系，以确保在治理系统的运作过程中，双方形成相互制衡关系，避免出现一方权利失衡的现象出现，以保证治理系统的健康运转。二是代币持有者通过投票或锁定代币成为治理节点，与区块生产节点和 GN 节点间形成单向制约关系。三是在代币持有者群体内，通过降低成为 GN 节点的门槛，使得少量代币持有者（散户）对大量代币持有者（大户）的制约关系，避免出现“寡头”垄断生态治理的现象。
-
-**chapter 3**
+> In the GOC ecosystem, there are restriction relations between the three types of roles: the token holder, the block producer, and the governance node (see Figure 2); Firstly, the block producer and the governance node are mutually restricted, which is to ensure healthy operation in the governance system. Secondly, the token holder becomes a governance node by voting or locking the token, forming a one-way restriction relationship with the block producer and the GN. Thirdly, reducing the threshold of becoming GN for token holders enables a small number of token holders (individuals) to have restriction on a large number of token holders (large households), which helps avoid the "oligarch" monopoly ecology.
 
 ![](images/goc/c1af76ccfad6c204d086dde8ca402187.png)
 
-> 图 2 治理角色相互制约关系
+> Figure 2 Governance role mutual restriction
 
 ![](images/goc/b3553fa467debf9efd40251910da0f70.png)
 
-> 各治理角色之间的详细相互作用关系可参见图 3；从图中可见，在系统的治理架构初始设计中，dApp 开发者与第三方服务供应商与其它三类生态参与者之间不形成制约关系，这是因为在系统生态发展初期，需要通过激励的方式，促进 dApp 开发者和第三方服务供应商踊跃进入生态。但未来随着生态治理实践的不断演进，根据实践结果和社区决策，存在引入对 dApp 开发者和第三方服务供应商的制约机制（例如，对恶意dApp 的制约机制，对存在造假、不诚信第三方服务供应商的退出机制）。
+> The detailed interaction between the governance roles can be seen in Figure 3. As shown in figure, in the initial design of the governance structure of the system, the other three types of ecological participants have no restriction relations between dApp developers or third-party service providers. This is because in the early stage of system ecological development, it is necessary to incentivize dApp developers and third-party service providers to enter the ecology. As the ecological governance practices evolve, there shall be restriction mechanism on dApp developers and third-party service providers, according to the results of practice and community decisions (e.g., the restriction mechanism for malicious dApp, the exit mechanism for dishonest third-party service providers).
 
-## 3.3 生态角色间的基本约束关系
+## 3.3 Basic restrictions between ecological roles
 
 > 本节对生态参与者在扮演不同角色时的基本要求、权利与义务、代币使用方式与激励方式做出了详细的描述。
 
 ![](images/goc/729642e7e1d96aee0e8860afa5bbc76d.png)
 
-其中，各角色在整个生态中的权利与义务的约定，与治理系统的具体运作流程紧
-
-密相关，在图 4 中，初步设计了 GOC 系统运作初期，生态中各角色参与治理的基本 **chapter 3** 流程和相应的执行前置条件。但随着社区的发展，根据治理实践及社区成员决策，相关治理流程将可进行优化与调整，同时各角色所承担的权利与义务等也将发生相应的变化。
+其中，各角色在整个生态中的权利与义务的约定，与治理系统的具体运作流程紧密相关，在图 4 中，初步设计了 GOC 系统运作初期，生态中各角色参与治理的基本流程和相应的执行前置条件。但随着社区的发展，根据治理实践及社区成员决策，相关治理流程将可进行优化与调整，同时各角色所承担的权利与义务等也将发生相应的变化。
 
 ![](images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
