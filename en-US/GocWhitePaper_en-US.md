@@ -308,7 +308,7 @@ BM 崇尚自由及具有竞争的区块链系统，这样的系统不但能够�
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/2bbbe1ace0c09779aa75ace151b62e90.png)
 
-# GOC public chain governance program
+# 3. GOC public chain governance program
 
 ## 3.1 Ecological participation role
 
