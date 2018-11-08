@@ -663,7 +663,7 @@ dApp 开发者
 2. 提请提案获得通过获得奖励/赔偿</td>
     </tr>
 </table>
-![](images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
+![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
 图 5 围绕代币持有者的相关生态
 
@@ -720,7 +720,7 @@ B. 争议仲裁提请提案
     	<td>一部分通胀收益将奖励给区块生产节点作为系统维护收益</td>
     </tr>
 </table>
-![](images/goc/226da22590d260bc732f3102f8532e4d.png)
+![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/226da22590d260bc732f3102f8532e4d.png)
 
 图 6 围绕区块生产节点的相关生态
 
@@ -773,7 +773,7 @@ GN 是系统中最重要的角色之一，对区块链治理方面的提案进�
 务的GN才有获取回报的资格。</td>
     </tr>
 </table>
-![](images/goc/ae2bdaab3894c2d8e8fce432932e72f3.png)
+![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/ae2bdaab3894c2d8e8fce432932e72f3.png)
 
 图 7 围绕系统治理节点的相关生态
 
@@ -814,7 +814,7 @@ GN 是系统中最重要的角色之一，对区块链治理方面的提案进�
 2. 通过提交提案申请初始启动资金。</td>
     </tr>
 </table>
-![](images/goc/99a5cdfe10dd40af2156f112147c459f.png)
+![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/99a5cdfe10dd40af2156f112147c459f.png)
 
 图 8 围绕第三方服务提供商的相关生态
 
