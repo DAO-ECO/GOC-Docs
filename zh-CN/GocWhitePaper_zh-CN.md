@@ -487,7 +487,7 @@ dApp 开发者
   </tr>
 </table>
 
-![](images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
+![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
 图 5 围绕代币持有者的相关生态
 
@@ -572,7 +572,7 @@ B. 争议仲裁提请提案
   </tr>
 </table>
 
-![](images/goc/226da22590d260bc732f3102f8532e4d.png)
+![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/226da22590d260bc732f3102f8532e4d.png)
 
 图 6 围绕区块生产节点的相关生态
 
@@ -648,7 +648,7 @@ B. 争议仲裁提请提案
   </tr>
 </table>
 
-![](images/goc/ae2bdaab3894c2d8e8fce432932e72f3.png)
+![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/ae2bdaab3894c2d8e8fce432932e72f3.png)
 
 图 7 围绕系统治理节点的相关生态
 
@@ -718,7 +718,7 @@ B. 争议仲裁提请提案
   </tr>
 </table>
 
-![](images/goc/99a5cdfe10dd40af2156f112147c459f.png)
+![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/99a5cdfe10dd40af2156f112147c459f.png)
 
 图 8 围绕第三方服务提供商的相关生态
 
