@@ -593,7 +593,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     区块生产节点（BP）
     
 
-**3.3.2 区块生产节点（Block Producer，BP）**
+**3.3.2 Block Producer (BP)**
 
 <table class="table table-bordered table-striped table-condensed">
   <tr>
@@ -602,7 +602,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     </td>
     
     <td>
-      区块链的维护者（生产区块），没有很大的权力，但是作为系统中最后一道防线 持有集体一票否决权
+      As the maintainer of the blockchain (to produce blocks), Block Producers do not have much power, but serve as the last ditch in the system.
     </td>
   </tr>
   
@@ -612,7 +612,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     </td>
     
     <td>
-      至少拥有起码的资源和技术支持，其他待定
+      At least have minimum resources and technical support, other requirements are pending
     </td>
   </tr>
   
@@ -624,7 +624,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     <td>
       <ol>
         <li>
-          生产区块，维护主链正常运行
+          Produce blocks to maintain normal operation of the main chain
         </li>
         
         <li>
