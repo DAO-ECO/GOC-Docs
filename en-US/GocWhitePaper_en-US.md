@@ -567,7 +567,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     支付代币-购买dApp
     
 
-    dApp 开发者
+    dApp 开发者 dApp Developer
     
 
     申请提案  
