@@ -548,7 +548,7 @@ The rights and obligations of each role in the entire ecology are closely relate
         </li>
         
         <li>
-          Submit a proposal to get a reward/compensation
+          提请提案获得通过获得奖励 / 赔偿
         </li>
       </ol>
     </td>
