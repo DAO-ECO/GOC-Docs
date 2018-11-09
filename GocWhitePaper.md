@@ -679,28 +679,7 @@ dApp 开发者
 
 **3.3.1 Token 持有者**
 
-<table class="table table-bordered table-striped table-condensed">
-    <tr>
-        <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">角色描述</td>
-    <td>系统的最终权益所有者</td>
-    </tr>
-    <tr>
-        <td bgcolor="#f6f8fa" align="center" valign="middle">基本要求</td>
-    <td>只要持有代币即可</td>
-    </tr>
-    <tr>
-    	<td bgcolor="#f6f8fa" align="center" valign="middle">权利和义务</td>
-<td><ol><li>投票产生区块生产节点（BP）</li><li>锁定代币加入系统治理节点（GN）</li><li>支付一定代币提请提案</li><li>进行公投等其他动作，所有涉及代码修改（包括治理参数、系统通胀分配等）都必须经过公投方能进行</li></ol></td>
-    </tr>
-    <tr>
-    	<td bgcolor="#f6f8fa" align="center" valign="middle">系统中使用代币</td>
-    	<td><ol><li>锁定代币对区块生产节点进行投票</li><li>锁定代币加入系统治理节点</li><li>支付一定数量代币提请提案</li><li>若收到提案被诉，并最终通过，使用代币进行赔偿，并支付使用的第三方服务</li><li>锁定代币进行公投</li></ol></td>
-    </tr>
-    <tr>
-    	<td bgcolor="#f6f8fa" align="center" valign="middle">系统中获取代币</td>
-    	<td><ol><li>加入系统治理节点，获取治理投票收益</li><li>提请提案获得通过获得奖励/赔偿</li></ol></td>
-    </tr>
-</table>
+<table valign="middle"><tr><td bgcolor="#f6f8fa" align="center" width="150px">角色描述</td><td>系统的最终权益所有者</td></tr><tr><td bgcolor="#f6f8fa" align="center">基本要求</td><td>只要持有代币即可</td></tr><tr><td bgcolor="#f6f8fa" align="center">权利和义务</td><td><ol><li>投票产生区块生产节点（BP）</li><li>锁定代币加入系统治理节点（GN）</li><li>支付一定代币提请提案</li><li>进行公投等其他动作，所有涉及代码修改（包括治理参数、系统通胀分配等）都必须经过公投方能进行</li></ol></td></tr><tr><td bgcolor="#f6f8fa" align="center">系统中使用代币</td><td><ol><li>锁定代币对区块生产节点进行投票</li><li>锁定代币加入系统治理节点</li><li>支付一定数量代币提请提案</li><li>若收到提案被诉，并最终通过，使用代币进行赔偿，并支付使用的第三方服务</li><li>锁定代币进行公投</li></ol></td></tr><tr><td bgcolor="#f6f8fa" align="center">系统中获取代币</td><td><ol><li>加入系统治理节点，获取治理投票收益</li><li>提请提案获得通过获得奖励/赔偿</li></ol></td></tr></table>
 
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
