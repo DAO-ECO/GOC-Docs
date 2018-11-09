@@ -682,7 +682,7 @@ dApp 开发者
 <table>
     <tr>
         <td align="center" valign="middle" width="150px">角色描述</td>
-        <td valign="middle">系统的最终权益所有者 测试</td>
+        <td valign="middle">系统的最终权益所有者</td>
     </tr>
     <tr>
         <td align="center" valign="middle">基本要求</td>
@@ -701,6 +701,7 @@ dApp 开发者
     	<td valign="middle"><ol><li>加入系统治理节点，获取治理投票收益</li><li>提请提案获得通过获得奖励/赔偿</li></ol></td>
     </tr>
 </table>
+
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
