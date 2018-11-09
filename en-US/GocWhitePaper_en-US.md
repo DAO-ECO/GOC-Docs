@@ -548,7 +548,7 @@ The rights and obligations of each role in the entire ecology are closely relate
         </li>
         
         <li>
-          Submit a proposal to get a reward/compensation
+          提请提案获得通过获得奖励 / 赔偿
         </li>
       </ol>
     </td>
@@ -758,8 +758,8 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 图 7 围绕系统治理节点的相关生态
 
-    代币持有者  
-    成为GN  
+    代币持有者 Token Holder  
+    成为GN Become GN  
     获得代币-代币通胀收益一部分支付GN的报酬
     
 
