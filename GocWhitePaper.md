@@ -690,10 +690,7 @@ dApp 开发者
     </tr>
     <tr>
     	<td bgcolor="#f6f8fa" align="center" valign="middle">权利和义务</td>
-        <td>1. 投票产生区块生产节点（BP）
-2. 锁定代币加入系统治理节点（GN）
-3. 支付一定代币提请提案
-4. 进行公投等其他动作，所有涉及代码修改（包括治理参数、系统通胀分配等）都必须经过公投方能进行</td>
+        <td>1.投票产生区块生产节点（BP）<br>2.锁定代币加入系统治理节点（GN）<br>3 .支付一定代币提请提案<br>4. 进行公投等其他动作，所有涉及代码修改（包括治理参数、系统通胀分配等）都必须经过公投方能进行</td>
     </tr>
     <tr>
     	<td bgcolor="#f6f8fa" align="center" valign="middle">系统中使用代币</td>
@@ -709,6 +706,7 @@ dApp 开发者
 2. 提请提案获得通过获得奖励/赔偿</td>
     </tr>
 </table>
+
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
