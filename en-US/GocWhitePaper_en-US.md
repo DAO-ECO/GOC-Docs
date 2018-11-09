@@ -427,10 +427,8 @@ The rights and obligations of each role in the entire ecology are closely relate
     购买使用  
     支付服务相关费用
 
-
-    dApp 开发者
-
-
+    dApp 开发者 dApp Developer
+    
     第三方服务提供商  
     提供仲裁相关服务，例如公正、尽职调查、审计等
 
@@ -457,9 +455,103 @@ The rights and obligations of each role in the entire ecology are closely relate
     提案初步通过，交由BP最终审核
 
 
-**3.3.1 Token 持有者**
+**3.3.1 Token holder**
 
-<table valign="middle"><tr><td bgcolor="#f6f8fa" align="center" width="150px">Role Description</td><td>The ultimate owner of the system</td></tr><tr><td bgcolor="#f6f8fa" align="center">Basic Requirements</td><td>as long as one holds the token</td></tr><tr><td bgcolor="#f6f8fa" align="center">Rights and Obligations</td><td><ol><li>Vote to generate Block Producers (BP)</li><li>Lock tokens to join the Governance node (GN)</li><li>Pay a certain amount of tokens to submit the proposal</li><li>Other actions, such as a referendum, actions involving code changes (including governance parameters, system inflation allocation, etc.) must be agreed by a referendum.</li></ol></td></tr><tr><td bgcolor="#f6f8fa" align="center">Use tokens in the system</td><td><ol><li>Lock tokens to vote on block producers</li><li>Lock tokens to join governance node</li><li>Pay a certain amount of tokens to submit the proposal</li><li>If the proposal is filed and finally passed, tokens will be paid as compensation and third-party service used will be paid.</li><li>Lock the token to conduct a referendum.</li></ol></td></tr><tr><td bgcolor="#f6f8fa" align="center">Obtain tokens in the system</td><td><ol><li>Join the governance node to get governance voting earnings</li><li>Submit a proposal to get a reward/compensation</li></ol></td></tr></table>
+<table valign="middle">
+  <tr>
+    <td bgcolor="#f6f8fa" align="center" width="150px">
+      Role Description
+    </td>
+    
+    <td>
+      The ultimate owner of the system
+    </td>
+  </tr>
+  
+  <tr>
+    <td bgcolor="#f6f8fa" align="center">
+      Basic Requirements
+    </td>
+    
+    <td>
+      as long as one holds the token
+    </td>
+  </tr>
+  
+  <tr>
+    <td bgcolor="#f6f8fa" align="center">
+      Rights and Obligations
+    </td>
+    
+    <td>
+      <ol>
+        <li>
+          Vote to generate Block Producers (BP)
+        </li>
+        
+        <li>
+          Lock tokens to join the Governance node (GN)
+        </li>
+        
+        <li>
+          Pay a certain amount of tokens to submit the proposal
+        </li>
+        
+        <li>
+          Other actions, such as a referendum, actions involving code changes (including governance parameters, system inflation allocation, etc.) must be agreed by a referendum.
+        </li>
+      </ol>
+    </td>
+  </tr>
+  
+  <tr>
+    <td bgcolor="#f6f8fa" align="center">
+      Use tokens in the system
+    </td>
+    
+    <td>
+      <ol>
+        <li>
+          Lock tokens to vote on block producers
+        </li>
+        
+        <li>
+          Lock tokens to join governance node
+        </li>
+        
+        <li>
+          Pay a certain amount of tokens to submit the proposal
+        </li>
+        
+        <li>
+          If the proposal is filed and finally passed, tokens will be paid as compensation and third-party service used will be paid.
+        </li>
+        
+        <li>
+          Lock the token to conduct a referendum
+        </li>
+      </ol>
+    </td>
+  </tr>
+  
+  <tr>
+    <td bgcolor="#f6f8fa" align="center">
+      Obtain tokens in the system
+    </td>
+    
+    <td>
+      <ol>
+        <li>
+          Join the governance node to get governance voting earnings
+        </li>
+        
+        <li>
+          Submit a proposal to get a reward/compensation
+        </li>
+      </ol>
+    </td>
+  </tr>
+</table>
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
@@ -675,9 +767,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     项目资金申请提案  
     争议仲裁提请提案
 
-
-    区块生产节点（BP）
-
+    区块生产节点（BP） Block Producer (BP)
 
 **3.3.4 Third-party Service Provider**
 
