@@ -748,7 +748,7 @@ B. 争议仲裁提请提案
 区块生产节点（BP）
 ```
 
-**3.3. 2 区块生产节点（Block Producer，BP）**
+**3.3.2 区块生产节点（Block Producer，BP）**
 
 <table class="table table-bordered table-striped table-condensed">
     <tr>
@@ -762,8 +762,7 @@ B. 争议仲裁提请提案
     </tr>
     <tr>
     	<td bgcolor="#f6f8fa" align="center" valign="middle">权利和义务</td>
-        <td>1. 生产区块，维护主链正常运行
-2. 当系统治理节点 GN 的决策出现重大失误，或者其决策严重偏离公允，伤害系统利益，那么可以行使集体一票否决权，防止决策实施</td>
+        <td><ol><li>生产区块，维护主链正常运行</li><li>当系统治理节点 GN 的决策出现重大失误，或者其决策严重偏离公允，伤害系统利益，那么可以行使集体一票否决权，防止决策实施</li></ol></td>
     </tr>
     <tr>
     	<td bgcolor="#f6f8fa" align="center" valign="middle">系统中使用代币</td>
@@ -774,6 +773,7 @@ B. 争议仲裁提请提案
     	<td>一部分通胀收益将奖励给区块生产节点作为系统维护收益</td>
     </tr>
 </table>
+
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/226da22590d260bc732f3102f8532e4d.png)
 
