@@ -640,7 +640,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     </td>
     
     <td>
-      无
+      No
     </td>
   </tr>
   
@@ -650,7 +650,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     </td>
     
     <td>
-      一部分通胀收益将奖励给区块生产节点作为系统维护收益
+      A portion of the inflation gains will be awarded to the block producers as a system maintenance earnings.
     </td>
   </tr>
 </table>
@@ -680,12 +680,12 @@ The rights and obligations of each role in the entire ecology are closely relate
     B. 争议仲裁提请提案
     
 
-**3.3.3 系统治理节点（Governance Node, GN）**
+**3.3.3 Governance Node (GN)**
 
 <table class="table table-bordered table-striped table-condensed">
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
-      角色描述
+      Role Description
     </td>
     
     <td>
@@ -695,7 +695,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      基本要求
+      Basic requirements
     </td>
     
     <td>
@@ -717,7 +717,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      权利和义务
+      Rights and Obligations
     </td>
     
     <td>
@@ -735,7 +735,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      系统中使用代币
+      Tokens are used in the system.
     </td>
     
     <td>
@@ -745,7 +745,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      系统中获取代币
+      Obtain tokens in the system
     </td>
     
     <td>
@@ -773,62 +773,62 @@ The rights and obligations of each role in the entire ecology are closely relate
     区块生产节点（BP）
     
 
-**3.3.4 第三方服务提供商**
+**3.3.4 Third-party Service Provider**
 
 <table class="table table-bordered table-striped table-condensed">
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
-      角色描述
+      Role Description
     </td>
     
     <td>
-      为生态系统提供第三方服务，其中包括为仲裁过程提供包括审计、公证、尽职调查等服务。
+      To provide third-party services to the ecosystem, including audition, notarization, and due diligence for the arbitration process.
     </td>
   </tr>
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      基本要求
+      Basic requirements
     </td>
     
     <td>
-      无。如果没有初始资金，第三方服务提供商可以通过发起项目资金申请提案来获取启动资金。
+      None. If there is no initial funding, the third-party service provider can obtain start-up funds by initiating a project funding request proposal.
     </td>
   </tr>
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      权利和义务
+      Rights and Obligations
     </td>
     
     <td>
-      为相关代币持有者提供第三方服务。
+      Provide third party services to relevant token holders.
     </td>
   </tr>
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      系统中使用代币
+      Tokens are used in the system.
     </td>
     
     <td>
-      无。
+      No
     </td>
   </tr>
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      系统中获取代币
+      Obtain tokens in the system
     </td>
     
     <td>
       <ol>
         <li>
-          提供第三方服务获取服务报酬；
+          Provide third party services to obtain compensation;
         </li>
         
         <li>
-          通过提交提案申请初始启动资金。
+          Apply for initial funding by submitting a proposal.
         </li>
       </ol>
     </td>
