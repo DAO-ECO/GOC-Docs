@@ -312,34 +312,34 @@ BM 崇尚自由及具有竞争的区块链系统，这样的系统不但能够�
 
 ## 3.1 Ecological participation role
 
-The main participating roles in GOC public chain governance include: token holders, block producers (BP), Governance Node (GN), third-party service provider, dApp developers, etc.
+The main participating roles in GOC public chain governance include: token holder, block producer (BP), Governance Node (GN), third-party service provider, dApp developer, etc.
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/2a29d70d229df67495fe60804d2db144.png)
 
-图 1 GOC生态典型角色
+Figure 1 GOC ecological typical role
 
-    代币持有者 
+    代币持有者 Token holder 
     
 
-    区块生产节点（BP） 
+    区块生产节点（BP） Block Producer (BP) 
     
 
-    系统治理节点（GN）
+    系统治理节点（GN） Governance Node (GN)
     
 
-    第三方服务提供商 
+    第三方服务提供商 Third-party Service Provider 
     
 
-    dApp 开发者
+    dApp 开发者 dApp Developer
     
 
 ## 3.2 Basic restriction relations between ecological roles
 
-在 GOC 生态中，代币持有者、区块生产节点和系统治理节点三类角色间具有制约的关系（参见图2）；其中，一是区块生产节点与系统治理节点之间，具有双向制约关系，以确保在治理系统的运作过程中，双方形成相互制衡关系，避免出现一方权利失衡的现象出现，以保证治理系统的健康运转。二是代币持有者通过投票或锁定代币成为治理节点，与区块生产节点和 GN 节点间形成单向制约关系。三是在代币持有者群体内，通过降低成为 GN 节点的门槛，使得少量代币持有者（散户）对大量代币持有者（大户）的制约关系，避免出现“寡头”垄断生态治理的现象。
+In the GOC ecosystem, there are restriction relations between the three types of roles: the token holder, the block producer, and the governance node (see Figure 2); Firstly, the block producer and the governance node are mutually restricted, which is to ensure healthy operation in the governance system. Secondly, the token holder becomes a governance node by voting or locking the token, forming a one-way restriction relationship with the block producer and the GN. Thirdly, reducing the threshold of becoming GN for token holders enables a small number of token holders (individuals) to have restriction on a large number of token holders (large households), which helps avoid the "oligarch" monopoly ecology. 
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/c1af76ccfad6c204d086dde8ca402187.png)
 
-图 2 治理角色相互制约关系
+Figure 2 Governance role mutual restriction
 
     代币持有者 
     
