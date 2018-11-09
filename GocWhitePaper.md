@@ -679,8 +679,28 @@ dApp 开发者
 
 **3.3.1 Token 持有者**
 
-<table valign="middle"><tr><td bgcolor="#f6f8fa" align="center" width="150px">角色描述</td><td>系统的最终权益所有者</td></tr><tr><td bgcolor="#f6f8fa" align="center">基本要求</td><td>只要持有代币即可</td></tr><tr><td bgcolor="#f6f8fa" align="center">权利和义务</td><td><ol><li>投票产生区块生产节点（BP）</li><li>锁定代币加入系统治理节点（GN）</li><li>支付一定代币提请提案</li><li>进行公投等其他动作，所有涉及代码修改（包括治理参数、系统通胀分配等）都必须经过公投方能进行</li></ol></td></tr><tr><td bgcolor="#f6f8fa" align="center">系统中使用代币</td><td><ol><li>锁定代币对区块生产节点进行投票</li><li>锁定代币加入系统治理节点</li><li>支付一定数量代币提请提案</li><li>若收到提案被诉，并最终通过，使用代币进行赔偿，并支付使用的第三方服务</li><li>锁定代币进行公投</li></ol></td></tr><tr><td bgcolor="#f6f8fa" align="center">系统中获取代币</td><td><ol><li>加入系统治理节点，获取治理投票收益</li><li>提请提案获得通过获得奖励/赔偿</li></ol></td></tr></table>
-
+<table class="table table-bordered table-striped table-condensed">
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">角色描述</td>
+        <td>系统的最终权益所有者</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">基本要求</td>
+    <td>只要持有代币即可</td>
+    </tr>
+    <tr>
+    	<td bgcolor="#f6f8fa" align="center" valign="middle">权利和义务</td>
+        <td><ol><li>投票产生区块生产节点（BP）</li><li>锁定代币加入系统治理节点（GN）</li><li>支付一定代币提请提案</li><li>进行公投等其他动作，所有涉及代码修改（包括治理参数、系统通胀分配等）都必须经过公投方能进行</li></ol></td>
+    </tr>
+    <tr>
+    	<td bgcolor="#f6f8fa" align="center" valign="middle">系统中使用代币</td>
+    	<td><ol><li>锁定代币对区块生产节点进行投票</li><li>锁定代币加入系统治理节点</li><li>支付一定数量代币提请提案</li><li>若收到提案被诉，并最终通过，使用代币进行赔偿，并支付使用的第三方服务</li><li>锁定代币进行公投</li></ol></td>
+    </tr>
+    <tr>
+    	<td bgcolor="#f6f8fa" align="center" valign="middle">系统中获取代币</td>
+    	<td><ol><li>加入系统治理节点，获取治理投票收益</li><li>提请提案获得通过获得奖励/赔偿</li></ol></td>
+    </tr>
+</table>
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
@@ -732,7 +752,7 @@ B.争议仲裁提请提案
 <table class="table table-bordered table-striped table-condensed">
     <tr>
         <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">角色描述</td>
-    <td>区块链的维护者（生产区块），没有很大的权力，但是作为系统中最后一道防线
+        <td>区块链的维护者（生产区块），没有很大的权力，但是作为系统中最后一道防线
 持有集体一票否决权</td>
     </tr>
     <tr>
@@ -752,6 +772,7 @@ B.争议仲裁提请提案
     	<td>一部分通胀收益将奖励给区块生产节点作为系统维护收益</td>
     </tr>
 </table>
+
 
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/226da22590d260bc732f3102f8532e4d.png)
@@ -787,7 +808,7 @@ B.争议仲裁提请提案
 <table class="table table-bordered table-striped table-condensed">
     <tr>
         <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">角色描述</td>
-    <td>新增角色。和区块生产节点（BP）由投票决定出来不同，系统治理节点（GN）门槛不高，且数量不设上限，只设锁定代币数量，使持有少量代币但积极参与社区治理的代币持有者可以充分加入到治理系统中来。系统治理节点投票权重一节点一票，不再按照 EOS 系统中代币数量来决定权重，看人头不看票数，降低持有大量代币的参与者控制系统的风险。 
+        <td>新增角色。和区块生产节点（BP）由投票决定出来不同，系统治理节点（GN）门槛不高，且数量不设上限，只设锁定代币数量，使持有少量代币但积极参与社区治理的代币持有者可以充分加入到治理系统中来。系统治理节点投票权重一节点一票，不再按照 EOS 系统中代币数量来决定权重，看人头不看票数，降低持有大量代币的参与者控制系统的风险。 
 GN 是系统中最重要的角色之一，对区块链治理方面的提案进行投票，包括项目资金分配的决议（资助优秀项目获得资金支持生态发展）以及争议仲裁的决议，其权利受到区块生产节点 BP 的最终监督。</td>
     </tr>
     <tr>
@@ -837,7 +858,7 @@ GN 是系统中最重要的角色之一，对区块链治理方面的提案进�
 <table class="table table-bordered table-striped table-condensed">
     <tr>
         <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">角色描述</td>
-    <td>为生态系统提供第三方服务，其中包括为仲裁过程提供包括审计、公证、尽职调查等服务。</td>
+        <td>为生态系统提供第三方服务，其中包括为仲裁过程提供包括审计、公证、尽职调查等服务。</td>
     </tr>
     <tr>
         <td bgcolor="#f6f8fa" align="center" valign="middle">基本要求</td>
@@ -856,6 +877,7 @@ GN 是系统中最重要的角色之一，对区块链治理方面的提案进�
     	<td><ol><li>提供第三方服务获取服务报酬；</li><li>通过提交提案申请初始启动资金。</li></ol></td>
     </tr>
 </table>
+
 
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/99a5cdfe10dd40af2156f112147c459f.png)
