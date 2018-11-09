@@ -364,7 +364,7 @@ The detailed interaction between the governance roles can be seen in Figure 3. A
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/b3553fa467debf9efd40251910da0f70.png)
 
-图 3 治理角色关系示意图
+Figure 3 Diagram of governance role relationships
 
     代币持有者  
     (1)投票选举产生  
