@@ -347,10 +347,10 @@ Figure 2 Governance role mutual restriction
     区块生产节点（BP） Block Producer (BP) 
     
 
-    系统治理节点（GN）
+    系统治理节点（GN） Governance Node (GN)
     
 
-    少量代币持有者（散户） 
+    少量代币持有者（散户） a Small Number of Token Holders (Individual) 
     
 
     大量代币持有者（大户）
