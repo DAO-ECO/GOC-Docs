@@ -318,7 +318,7 @@ The main participating roles in GOC public chain governance include: token holde
 
 图 1 GOC生态典型角色
 
-代币持有者
+Token Holders
 
 区块生产节点（BP）
 
