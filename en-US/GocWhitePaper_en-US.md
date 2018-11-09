@@ -492,7 +492,7 @@ The rights and obligations of each role in the entire ecology are closely relate
         </li>
         
         <li>
-          Lock tokens to join governance node
+          Lock tokens to join the Governance node (GN)
         </li>
         
         <li>
@@ -593,12 +593,12 @@ The rights and obligations of each role in the entire ecology are closely relate
     区块生产节点（BP）
     
 
-**3.3. 2 区块生产节点（Block Producer，BP）**
+**3.3.2 Block Producer (BP)**
 
 <table class="table table-bordered table-striped table-condensed">
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
-      角色描述
+      Role Description
     </td>
     
     <td>
@@ -608,7 +608,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      基本要求
+      Basic Requirements
     </td>
     
     <td>
@@ -618,7 +618,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      权利和义务
+      Rights and Obligations
     </td>
     
     <td>
@@ -628,7 +628,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      系统中使用代币
+      Tokens are used in the system
     </td>
     
     <td>
@@ -638,7 +638,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   
   <tr>
     <td bgcolor="#f6f8fa" align="center" valign="middle">
-      系统中获取代币
+      Obtain tokens in the system
     </td>
     
     <td>
