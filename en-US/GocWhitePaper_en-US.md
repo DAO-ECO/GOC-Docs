@@ -593,7 +593,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     区块生产节点（BP）
     
 
-**3.3.2 Block Producer (BP)**
+**3.3.2 区块生产节点（Block Producer，BP）**
 
 <table class="table table-bordered table-striped table-condensed">
   <tr>
@@ -622,7 +622,15 @@ The rights and obligations of each role in the entire ecology are closely relate
     </td>
     
     <td>
-      1. 生产区块，维护主链正常运行 2. 当系统治理节点 GN 的决策出现重大失误，或者其决策严重偏离公允，伤害系统利益，那么可以行使集体一票否决权，防止决策实施
+      <ol>
+        <li>
+          生产区块，维护主链正常运行
+        </li>
+        
+        <li>
+          当系统治理节点 GN 的决策出现重大失误，或者其决策严重偏离公允，伤害系统利益，那么可以行使集体一票否决权，防止决策实施
+        </li>
+      </ol>
     </td>
   </tr>
   
