@@ -466,7 +466,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     </td>
     
     <td valign="middle">
-      系统的最终权益所有者 测试
+      系统的最终权益所有者
     </td>
   </tr>
   
