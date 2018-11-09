@@ -459,33 +459,33 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 **3.3.1 Token holder**
 
-<table class="table table-bordered table-striped table-condensed">
+<table>
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
+    <td align="center" valign="middle" width="150px">
       Role Description
     </td>
     
-    <td>
+    <td valign="middle">
       系统的最终权益所有者 测试
     </td>
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td align="center" valign="middle">
       Basic Requirements
     </td>
     
-    <td>
+    <td valign="middle">
       as long as one holds the token
     </td>
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td align="center" valign="middle">
       Rights and Obligations
     </td>
     
-    <td>
+    <td valign="middle">
       <ol>
         <li>
           Vote to generate Block Producers (BP)
@@ -507,11 +507,11 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td align="center" valign="middle">
       Use tokens in the system
     </td>
     
-    <td>
+    <td valign="middle">
       <ol>
         <li>
           Lock tokens to vote on block producers
@@ -537,11 +537,11 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td align="center" valign="middle">
       Obtain tokens in the system
     </td>
     
-    <td>
+    <td valign="middle">
       <ol>
         <li>
           Join the governance node to get governance voting earnings
