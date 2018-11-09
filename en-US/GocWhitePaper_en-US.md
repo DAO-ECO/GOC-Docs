@@ -544,7 +544,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     <td>
       <ol>
         <li>
-          加入系统治理节点，获取治理投票收益
+          Join the governance node to get governance voting earnings
         </li>
         
         <li>
