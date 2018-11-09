@@ -353,14 +353,14 @@ Figure 2 Governance role mutual restriction
     少量代币持有者（散户） a Small Number of Token Holders (Individual) 
     
 
-    大量代币持有者（大户）
+    大量代币持有者（大户） a Large Number of Token Holder (Large household)
     
 
-    制约 
-    放大看
+    制约 Restrict
+    放大看 Zoom Up
     
 
-各治理角色之间的详细相互作用关系可参见图 3 ；从图中可见，在系统的治理架构初始设计中，dApp 开发者与第三方服务供应商与其它三类生态参与者之间不形成制约关系，这是因为在系统生态发展初期，需要通过激励的方式，促进 dApp 开发者和第三方服务供应商踊跃进入生态。但未来随着生态治理实践的不断演进，根据实践结果和社区决策，存在引入对 dApp 开发者和第三方服务供应商的制约机制（例如，对恶意 dApp 的制约机制，对存在造假、不诚信第三方服务供应商的退出机制）。
+The detailed interaction between the governance roles can be seen in Figure 3. As shown in figure, in the initial design of the governance structure of the system, the other three types of ecological participants have no restriction relations between dApp developers or third-party service providers. This is because in the early stage of system ecological development, it is necessary to incentivize dApp developers and third-party service providers to enter the ecology. As the ecological governance practices evolve, there shall be restriction mechanism on dApp developers and third-party service providers, according to the results of practice and community decisions (e.g., the restriction mechanism for malicious dApp, the exit mechanism for dishonest third-party service providers).
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/b3553fa467debf9efd40251910da0f70.png)
 
