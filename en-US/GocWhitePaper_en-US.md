@@ -689,7 +689,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     </td>
     
     <td>
-      新增角色。和区块生产节点（BP）由投票决定出来不同，系统治理节点（GN）门槛不高，且数量不设上限，只设锁定代币数量，使持有少量代币但积极参与社区治理的代币持有者可以充分加入到治理系统中来。系统治理节点投票权重一节点一票，不再按照 EOS 系统中代币数量来决定权重，看人头不看票数，降低持有大量代币的参与者控制系统的风险。 GN 是系统中最重要的角色之一，对区块链治理方面的提案进行投票，包括项目资金分配的决议（资助优秀项目获得资金支持生态发展）以及争议仲裁的决议，其权利受到区块生产节点 BP 的最终监督。
+      New role. Different from the Block Producer (BP), the threshold of the The Governance Node (GN) is not high, and the number does not have an upper limit. Only set the number of locked tokens, so that the token holders who have a small number of tokens but actively participate in community governance can fully participate in the governance system. The GN voting weight is one node and one vote, the weight is no longer determined according to the number of tokens in the EOS system. Head count instead of vote count, and the risk of controlling the system of participants holding a large number of tokens is reduced.
     </td>
   </tr>
   
