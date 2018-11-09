@@ -843,7 +843,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     获得代币-获得提供服务后的报酬
     
 
-    第三方服务提供商
+    第三方服务提供商 Third-party Service Provider
     锁定代币-提请提案请求
     支付代币-支付提案费用
     获得代币-若提案通过获得相应诉求
