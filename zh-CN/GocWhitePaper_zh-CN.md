@@ -459,33 +459,33 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
 
 **3.3.1 Token 持有者**
 
-<table class="table table-bordered table-striped table-condensed">
+<table>
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
+    <td align="center" valign="middle" width="150px">
       角色描述
     </td>
     
-    <td>
+    <td valign="middle">
       系统的最终权益所有者
     </td>
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td align="center" valign="middle">
       基本要求
     </td>
     
-    <td>
+    <td valign="middle">
       只要持有代币即可
     </td>
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td align="center" valign="middle">
       权利和义务
     </td>
     
-    <td>
+    <td valign="middle">
       <ol>
         <li>
           投票产生区块生产节点（BP）
@@ -507,11 +507,11 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td align="center" valign="middle">
       系统中使用代币
     </td>
     
-    <td>
+    <td valign="middle">
       <ol>
         <li>
           锁定代币对区块生产节点进行投票
@@ -537,11 +537,11 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td align="center" valign="middle">
       系统中获取代币
     </td>
     
-    <td>
+    <td valign="middle">
       <ol>
         <li>
           加入系统治理节点，获取治理投票收益
