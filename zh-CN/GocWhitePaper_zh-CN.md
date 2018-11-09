@@ -416,9 +416,9 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
     支付一定数量代币，申请提案
     
 
-    A 项目资金申请提案  
+    A.项目资金申请提案  
     建立在区块链上的项目资金申请，推动生态发展  
-    B 争议仲裁提请提案  
+    B.争议仲裁提请提案  
     需要仲裁方仲裁的争议
     提案交由GN进行投票
     
@@ -459,9 +459,9 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
 
 **3.3.1 Token 持有者**
 
-<table class="table table-bordered table-striped table-condensed">
+<table valign="middle">
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
+    <td bgcolor="#f6f8fa" align="center" width="150px">
       角色描述
     </td>
     
@@ -471,7 +471,7 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       基本要求
     </td>
     
@@ -481,7 +481,7 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       权利和义务
     </td>
     
@@ -507,7 +507,7 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       系统中使用代币
     </td>
     
@@ -537,7 +537,7 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       系统中获取代币
     </td>
     
@@ -574,8 +574,8 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
     锁定代币-提请提案请求  
     支付代币-支付提案费用  
     获得代币-若提案通过获得相应诉求  
-    A. 项目资金申请提案  
-    B. 争议仲裁提请提案
+    A.项目资金申请提案  
+    B.争议仲裁提请提案
     
 
     锁定代币-成为GN  
@@ -676,8 +676,8 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
     投票初步通过  
     有权行使一票否决权  
     申请提案  
-    A. 项目资金申请提案  
-    B. 争议仲裁提请提案
+    A.项目资金申请提案  
+    B.争议仲裁提请提案
     
 
 **3.3.3 系统治理节点（Governance Node, GN）**

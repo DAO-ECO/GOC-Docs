@@ -416,9 +416,9 @@ The rights and obligations of each role in the entire ecology are closely relate
     支付一定数量代币，申请提案
     
 
-    A 项目资金申请提案  
+    A.项目资金申请提案  
     建立在区块链上的项目资金申请，推动生态发展  
-    B 争议仲裁提请提案  
+    B.争议仲裁提请提案  
     需要仲裁方仲裁的争议
     提案交由GN进行投票
     
@@ -459,9 +459,9 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 **3.3.1 Token 持有者**
 
-<table class="table table-bordered table-striped table-condensed">
+<table valign="middle">
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
+    <td bgcolor="#f6f8fa" align="center" width="150px">
       Role Description
     </td>
     
@@ -471,7 +471,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       Basic Requirements
     </td>
     
@@ -481,7 +481,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       Rights and Obligations
     </td>
     
@@ -507,7 +507,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       Use tokens in the system
     </td>
     
@@ -530,14 +530,14 @@ The rights and obligations of each role in the entire ecology are closely relate
         </li>
         
         <li>
-          Lock the token to conduct a referendum
+          Lock the token to conduct a referendum.
         </li>
       </ol>
     </td>
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       Obtain tokens in the system
     </td>
     
@@ -567,15 +567,15 @@ The rights and obligations of each role in the entire ecology are closely relate
     支付代币-购买dApp
     
 
-    dApp 开发者
+    dApp 开发者 dApp Developer
     
 
     申请提案  
     锁定代币-提请提案请求  
     支付代币-支付提案费用  
     获得代币-若提案通过获得相应诉求  
-    A. 项目资金申请提案  
-    B. 争议仲裁提请提案
+    A.项目资金申请提案  
+    B.争议仲裁提请提案
     
 
     锁定代币-成为GN  
@@ -676,8 +676,8 @@ The rights and obligations of each role in the entire ecology are closely relate
     投票初步通过  
     有权行使一票否决权  
     申请提案  
-    A. 项目资金申请提案  
-    B. 争议仲裁提请提案
+    A.项目资金申请提案  
+    B.争议仲裁提请提案
     
 
 **3.3.3 Governance Node (GN)**
@@ -839,7 +839,7 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 图 8 围绕第三方服务提供商的相关生态
 
-    代币持有者
+    代币持有者 Token Holder
     获得代币-获得提供服务后的报酬
     
 
