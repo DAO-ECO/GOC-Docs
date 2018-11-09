@@ -428,7 +428,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     支付服务相关费用
     
 
-    dApp 开发者
+    dApp 开发者 dApp Developer
     
 
     第三方服务提供商  
@@ -457,7 +457,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     提案初步通过，交由BP最终审核
     
 
-**3.3.1 Token 持有者**
+**3.3.1 Token holder**
 
 <table valign="middle">
   <tr>
@@ -530,7 +530,7 @@ The rights and obligations of each role in the entire ecology are closely relate
         </li>
         
         <li>
-          Lock the token to conduct a referendum.
+          Lock the token to conduct a referendum
         </li>
       </ol>
     </td>
@@ -770,7 +770,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     争议仲裁提请提案
     
 
-    区块生产节点（BP）
+    区块生产节点（BP） Block Producer (BP)
     
 
 **3.3.4 Third-party Service Provider**
