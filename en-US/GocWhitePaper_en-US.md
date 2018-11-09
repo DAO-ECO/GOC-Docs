@@ -488,19 +488,19 @@ The rights and obligations of each role in the entire ecology are closely relate
     <td>
       <ol>
         <li>
-          投票产生区块生产节点（BP）
+          Vote to generate Block Producers (BP)
         </li>
         
         <li>
-          锁定代币加入系统治理节点（GN）
+          Lock tokens to join governance node
         </li>
         
         <li>
-          支付一定代币提请提案
+          Pay a certain amount of tokens to submit the proposal
         </li>
         
         <li>
-          进行公投等其他动作，所有涉及代码修改（包括治理参数、系统通胀分配等）都必须经过公投方能进行
+          Other actions, such as a referendum, actions involving code changes (including governance parameters, system inflation allocation, etc.) must be agreed by a referendum.
         </li>
       </ol>
     </td>
@@ -514,23 +514,23 @@ The rights and obligations of each role in the entire ecology are closely relate
     <td>
       <ol>
         <li>
-          锁定代币对区块生产节点进行投票
+          Lock tokens to vote on block producers
         </li>
         
         <li>
-          锁定代币加入系统治理节点
+          Lock tokens to join governance node
         </li>
         
         <li>
-          支付一定数量代币提请提案
+          Pay a certain amount of tokens to submit the proposal
         </li>
         
         <li>
-          若收到提案被诉，并最终通过，使用代币进行赔偿，并支付使用的第三方服务
+          If the proposal is filed and finally passed, tokens will be paid as compensation and third-party service used will be paid.
         </li>
         
         <li>
-          锁定代币进行公投
+          Lock the token to conduct a referendum
         </li>
       </ol>
     </td>
@@ -548,7 +548,7 @@ The rights and obligations of each role in the entire ecology are closely relate
         </li>
         
         <li>
-          提请提案获得通过获得奖励/赔偿
+          Submit a proposal to get a reward/compensation
         </li>
       </ol>
     </td>
