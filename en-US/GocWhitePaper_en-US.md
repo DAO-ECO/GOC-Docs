@@ -459,9 +459,9 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 **3.3.1 Token 持有者**
 
-<table class="table table-bordered table-striped table-condensed">
+<table valign="middle">
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
+    <td bgcolor="#f6f8fa" align="center" width="150px">
       Role Description
     </td>
     
@@ -471,7 +471,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       Basic Requirements
     </td>
     
@@ -481,7 +481,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       Rights and Obligations
     </td>
     
@@ -507,7 +507,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       Use tokens in the system
     </td>
     
@@ -537,7 +537,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       Obtain tokens in the system
     </td>
     
