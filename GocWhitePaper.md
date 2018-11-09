@@ -682,7 +682,7 @@ dApp 开发者
 <table class="table table-bordered table-striped table-condensed">
     <tr>
         <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">角色描述</td>
-        <td>系统的最终权益所有者</td>
+        <td>系统的最终权益所有者 测试</td>
     </tr>
     <tr>
         <td bgcolor="#f6f8fa" align="center" valign="middle">基本要求</td>
