@@ -341,10 +341,10 @@ In the GOC ecosystem, there are restriction relations between the three types of
 
 Figure 2 Governance role mutual restriction
 
-    代币持有者 
+    代币持有者 Token holder 
     
 
-    区块生产节点（BP） 
+    区块生产节点（BP） Block Producer (BP) 
     
 
     系统治理节点（GN）
