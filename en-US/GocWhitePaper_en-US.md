@@ -530,7 +530,7 @@ The rights and obligations of each role in the entire ecology are closely relate
         </li>
         
         <li>
-          Lock the token to conduct a referendum
+          Lock the token to conduct a referendum.
         </li>
       </ol>
     </td>
@@ -839,7 +839,7 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 图 8 围绕第三方服务提供商的相关生态
 
-    代币持有者
+    代币持有者 Token Holder
     获得代币-获得提供服务后的报酬
     
 
