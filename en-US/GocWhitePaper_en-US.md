@@ -628,7 +628,7 @@ The rights and obligations of each role in the entire ecology are closely relate
         </li>
         
         <li>
-          当系统治理节点 GN 的决策出现重大失误，或者其决策严重偏离公允，伤害系统利益，那么可以行使集体一票否决权，防止决策实施
+          If the governance node GN makes major mistakes in decisioning, or its decision is seriously deviated from fairness and harms the interests of the system, then the collective veto right can be exercised to prevent decision implementation.
         </li>
       </ol>
     </td>
