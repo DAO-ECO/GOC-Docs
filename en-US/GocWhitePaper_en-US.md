@@ -31,7 +31,7 @@ GOC在现有全球大型公链底座的基础上，创造一个“小而美”�
 > 1.2 解决方案 ............................................................................................................................... 8
 
 1. GOC公链 ................................................................................................................................... 11
-   
+    
     1. GOC公链愿景 .................................................................................................................... 11
     
     2. GOC定位 ........................................................................................................................... 11
@@ -45,13 +45,13 @@ GOC在现有全球大型公链底座的基础上，创造一个“小而美”�
     6. GOC的未来图谱 ............................................................................................................... 12
 
 2. GOC公链治理方案 ................................................................................................................... 13
-   
+    
     1. 生态参与角色 ..................................................................................................................... 13
     
     2. 生态角色间的基本约束关系 .............................................................................................. 13
     
     3. 生态参与者角色与活动详细定义 ...................................................................................... 15
-       
+        
         1. Token持有者 .............................................................................................................. 16
 
 > 3.3. 2 区块生产节点（Block Producer，BP） ............................................................... 17 3.3.3 系统治理节点（Governance Node, GN） ........................................................... 18 3.3.4 第三方服务提供商 ..................................................................................................... 19 3.3.5 dApp开发者 .............................................................................................................. 20 3.4 主要治理系统 ..................................................................................................................... 20
@@ -67,11 +67,11 @@ GOC在现有全球大型公链底座的基础上，创造一个“小而美”�
 5. 制约机制 ..................................................................................................................... 24 3.6 对外输出 ............................................................................................................................. 25
 
 6. GOC公链技术系统 ................................................................................................................... 26
-   
+    
     1. 共识算法 (BFT-DPOS) ...................................................................................................... 26
     
     2. 分层级帐户体系 ................................................................................................................. 26
-       
+        
         1. 操作 & 处理 ............................................................................................................... 26
         
         2. 基于角色的权限管理 ................................................................................................. 27
@@ -79,7 +79,7 @@ GOC在现有全球大型公链底座的基础上，创造一个“小而美”�
         3. 权限映射 ..................................................................................................................... 27
     
     3. 操作亮点 ............................................................................................................................. 27
-       
+        
         1. 应用程序的确定性并行执行 ...................................................................................... 27
         
         2. 只读操作处理 ............................................................................................................. 27
@@ -91,7 +91,7 @@ GOC在现有全球大型公链底座的基础上，创造一个“小而美”�
         5. 上下文无关操作 ......................................................................................................... 28
     
     4. 模型与资源使用 ................................................................................................................. 29
-       
+        
         1. 委托能力 ..................................................................................................................... 29
         
         2. 分离交易成本与价值 ................................................................................................. 29
@@ -103,7 +103,7 @@ GOC在现有全球大型公链底座的基础上，创造一个“小而美”�
 1. 治理 ..................................................................................................................................... 30
 
 2. 跨链通信 ............................................................................................................................ 31
-   
+    
     1. 用于轻客户端的Merkle (LCV)证明 ......................................................................... 31
     
     2. 跨链通信的延时 ........................................................................................................ 31
@@ -319,19 +319,19 @@ The main participating roles in GOC public chain governance include: token holde
 Figure 1 GOC ecological typical role
 
     代币持有者 Token holder 
-
+    
 
     区块生产节点（BP） Block Producer (BP) 
-
+    
 
     系统治理节点（GN） Governance Node (GN)
-
+    
 
     第三方服务提供商 Third-party Service Provider 
-
+    
 
     dApp 开发者 dApp Developer
-
+    
 
 ## 3.2 Basic restriction relations between ecological roles
 
@@ -342,23 +342,23 @@ In the GOC ecosystem, there are restriction relations between the three types of
 Figure 2 Governance role mutual restriction
 
     代币持有者 Token holder 
-
+    
 
     区块生产节点（BP） Block Producer (BP) 
-
+    
 
     系统治理节点（GN） Governance Node (GN)
-
+    
 
     少量代币持有者（散户） a Small Number of Token Holders (Individual) 
-
+    
 
     大量代币持有者（大户） a Large Number of Token Holder (Large household)
-
+    
 
     制约 Restrict
     放大看 Zoom Up
-
+    
 
 The detailed interaction between the governance roles can be seen in Figure 3. As shown in figure, in the initial design of the governance structure of the system, the other three types of ecological participants have no restriction relations between dApp developers or third-party service providers. This is because in the early stage of system ecological development, it is necessary to incentivize dApp developers and third-party service providers to enter the ecology. As the ecological governance practices evolve, there shall be restriction mechanism on dApp developers and third-party service providers, according to the results of practice and community decisions (e.g., the restriction mechanism for malicious dApp, the exit mechanism for dishonest third-party service providers).
 
@@ -377,25 +377,25 @@ The detailed interaction between the governance roles can be seen in Figure 3. A
     (2)代币通胀收益为优秀的dApp提供资金支持  
     (1)选择  
     (2)支付服务费用
-
+    
 
     区块生产节点（BP）  
     维护系统运行  
     BP作为一个整体行使一票否决权，防止GN滥权
-
+    
 
     系统治理节点（GN）  
     (1)投票进行资金分配  
     (2)代币通胀支付报酬
-
+    
 
     dApp 开发者  
     开发并提供dApp
-
+    
 
     第三方服务提供商  
     提供第三方服务
-
+    
 
 ## 3.3 Basic restrictions between ecological roles
 
@@ -414,24 +414,26 @@ The rights and obligations of each role in the entire ecology are closely relate
     锁定一定数量代币作为抵押  
     自愿加入，数量不限  
     支付一定数量代币，申请提案
-
+    
 
     A.项目资金申请提案  
     建立在区块链上的项目资金申请，推动生态发展  
     B.争议仲裁提请提案  
     需要仲裁方仲裁的争议
     提案交由GN进行投票
-
+    
 
     锁定代币，进行公投等其他活动  
     购买使用  
     支付服务相关费用
+    
 
     dApp 开发者 dApp Developer
     
+
     第三方服务提供商  
     提供仲裁相关服务，例如公正、尽职调查、审计等
-
+    
 
     区块生产节点（BP）  
     1.负责维护主链的运行  
@@ -443,7 +445,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     否  
     提案最终通过  
     资金发放（通胀收益支付）、仲裁要求赔偿发放
-
+    
 
     系统治理节点（GN）  
     负责对区块链治理方面的决议进行投票，通过的决议需经过BP审议方可通过  
@@ -453,13 +455,13 @@ The rights and obligations of each role in the entire ecology are closely relate
     提案未通过  
     是  
     提案初步通过，交由BP最终审核
-
+    
 
 **3.3.1 Token holder**
 
-<table valign="middle">
+<table class="table table-bordered table-striped table-condensed">
   <tr>
-    <td bgcolor="#f6f8fa" align="center" width="150px">
+    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
       Role Description
     </td>
     
@@ -469,7 +471,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center">
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
       Basic Requirements
     </td>
     
@@ -479,7 +481,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center">
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
       Rights and Obligations
     </td>
     
@@ -505,7 +507,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center">
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
       Use tokens in the system
     </td>
     
@@ -535,7 +537,7 @@ The rights and obligations of each role in the entire ecology are closely relate
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center">
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
       Obtain tokens in the system
     </td>
     
@@ -559,14 +561,14 @@ The rights and obligations of each role in the entire ecology are closely relate
 
     代币持有者  
     支付代币-购买第三方服务
-
+    
 
     第三方服务提供商  
     支付代币-购买dApp
-
+    
 
     dApp 开发者 dApp Developer
-
+    
 
     申请提案  
     锁定代币-提请提案请求  
@@ -574,22 +576,22 @@ The rights and obligations of each role in the entire ecology are closely relate
     获得代币-若提案通过获得相应诉求  
     A.项目资金申请提案  
     B.争议仲裁提请提案
-
+    
 
     锁定代币-成为GN  
     支付代币（通胀）-手中代币通膷支付GN的报酬  
     获得代币-作为GN投票获得报酬  
     系统治理节点（GN）
-
+    
 
     锁定代币-对涉及代码的决议进行投票  
     公投
-
+    
 
     锁定代币-投票选举BP  
     支付代币（通胀）-手中代币通胀支付BP的报酬  
     区块生产节点（BP）
-
+    
 
 **3.3.2 Block Producer (BP)**
 
@@ -598,58 +600,58 @@ The rights and obligations of each role in the entire ecology are closely relate
     <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
       Role Description
     </td>
-
+    
     <td>
       As the maintainer of the blockchain (to produce blocks), Block Producers do not have much power, but serve as the last ditch in the system.
     </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Basic Requirements
-​    </td>
-​    
-​    <td>
-​      At least have minimum resources and technical support, other requirements are pending
-​    </td>
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Basic Requirements
+    </td>
+    
+    <td>
+      At least have minimum resources and technical support, other requirements are pending
+    </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Rights and Obligations
-​    </td>
-​    
-​    <td>
-​      <ol>
-​        <li>
-​          Produce blocks to maintain normal operation of the main chain
-​        </li>
-​        
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Rights and Obligations
+    </td>
+    
+    <td>
+      <ol>
+        <li>
+          Produce blocks to maintain normal operation of the main chain
+        </li>
+        
         <li>
           If the governance node GN makes major mistakes in decisioning, or its decision is seriously deviated from fairness and harms the interests of the system, then the collective veto right can be exercised to prevent decision implementation.
         </li>
       </ol>
     </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Tokens are used in the system
-​    </td>
-​    
-​    <td>
-​      No
-​    </td>
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Tokens are used in the system
+    </td>
+    
+    <td>
+      No
+    </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Obtain tokens in the system
-​    </td>
-​    
-​    <td>
-​      A portion of the inflation gains will be awarded to the block producers as a system maintenance earnings.
-​    </td>
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Obtain tokens in the system
+    </td>
+    
+    <td>
+      A portion of the inflation gains will be awarded to the block producers as a system maintenance earnings.
+    </td>
   </tr>
 </table>
 
@@ -664,11 +666,11 @@ The rights and obligations of each role in the entire ecology are closely relate
     获得代币-代币通胀收益一部分成为BP的报酬  
     通过公投决定影响BP的参数  
     公投
-
+    
 
     区块生产节点（BP）  
     维护网络运行
-
+    
 
     系统治理节点（GN）  
     投票初步通过  
@@ -676,7 +678,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     申请提案  
     A.项目资金申请提案  
     B.争议仲裁提请提案
-
+    
 
 **3.3.3 Governance Node (GN)**
 
@@ -685,23 +687,23 @@ The rights and obligations of each role in the entire ecology are closely relate
     <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
       Role Description
     </td>
-
+    
     <td>
       New role. Different from the Block Producer (BP), the threshold of the The Governance Node (GN) is not high, and the number does not have an upper limit. Only set the number of locked tokens, so that the token holders who have a small number of tokens but actively participate in community governance can fully participate in the governance system. The GN voting weight is one node and one vote, the weight is no longer determined according to the number of tokens in the EOS system. Head count instead of vote count, and the risk of controlling the system of participants holding a large number of tokens is reduced.
     </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Basic requirements
-​    </td>
-​    
-​    <td>
-​      <ol>
-​        <li>
-​          需要质押一部分代币作为抵押；
-​        </li>
-​        
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Basic requirements
+    </td>
+    
+    <td>
+      <ol>
+        <li>
+          需要质押一部分代币作为抵押；
+        </li>
+        
         <li>
           需要运行相关软件；
         </li>
@@ -712,43 +714,43 @@ The rights and obligations of each role in the entire ecology are closely relate
       </ol>
     </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Rights and Obligations
-​    </td>
-​    
-​    <td>
-​      <ol>
-​        <li>
-​          对资金申请提案进行审核，投票选出优秀的项目，将一部分通胀代币作为资金 支持这些项目发展；
-​        </li>
-​        
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Rights and Obligations
+    </td>
+    
+    <td>
+      <ol>
+        <li>
+          对资金申请提案进行审核，投票选出优秀的项目，将一部分通胀代币作为资金 支持这些项目发展；
+        </li>
+        
         <li>
           审阅仲裁双方提供的材料，投票决定是否支持请求。
         </li>
       </ol>
     </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Tokens are used in the system.
-​    </td>
-​    
-​    <td>
-​      成为GN需要质押一部分代币。
-​    </td>
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Tokens are used in the system.
+    </td>
+    
+    <td>
+      成为GN需要质押一部分代币。
+    </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Obtain tokens in the system
-​    </td>
-​    
-​    <td>
-​      一部分通胀收益将奖励给系统治理节点GN作为其投票回报，只有履行了投票义 务的GN才有获取回报的资格。
-​    </td>
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Obtain tokens in the system
+    </td>
+    
+    <td>
+      一部分通胀收益将奖励给系统治理节点GN作为其投票回报，只有履行了投票义 务的GN才有获取回报的资格。
+    </td>
   </tr>
 </table>
 
@@ -759,15 +761,17 @@ The rights and obligations of each role in the entire ecology are closely relate
     代币持有者  
     成为GN  
     获得代币-代币通胀收益一部分支付GN的报酬
-
+    
 
     系统治理节点（GN）  
     对提案进行投票决议，通过后交由BP  
     申请提案  
     项目资金申请提案  
     争议仲裁提请提案
+    
 
     区块生产节点（BP） Block Producer (BP)
+    
 
 **3.3.4 Third-party Service Provider**
 
@@ -776,53 +780,53 @@ The rights and obligations of each role in the entire ecology are closely relate
     <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
       Role Description
     </td>
-
+    
     <td>
       To provide third-party services to the ecosystem, including audition, notarization, and due diligence for the arbitration process.
     </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Basic requirements
-​    </td>
-​    
-​    <td>
-​      None. If there is no initial funding, the third-party service provider can obtain start-up funds by initiating a project funding request proposal.
-​    </td>
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Basic requirements
+    </td>
+    
+    <td>
+      None. If there is no initial funding, the third-party service provider can obtain start-up funds by initiating a project funding request proposal.
+    </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Rights and Obligations
-​    </td>
-​    
-​    <td>
-​      Provide third party services to relevant token holders.
-​    </td>
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Rights and Obligations
+    </td>
+    
+    <td>
+      Provide third party services to relevant token holders.
+    </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Tokens are used in the system.
-​    </td>
-​    
-​    <td>
-​      No
-​    </td>
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Tokens are used in the system.
+    </td>
+    
+    <td>
+      No
+    </td>
   </tr>
-
+  
   <tr>
-​    <td bgcolor="#f6f8fa" align="center" valign="middle">
-​      Obtain tokens in the system
-​    </td>
-​    
-​    <td>
-​      <ol>
-​        <li>
-​          Provide third party services to obtain compensation;
-​        </li>
-​        
+    <td bgcolor="#f6f8fa" align="center" valign="middle">
+      Obtain tokens in the system
+    </td>
+    
+    <td>
+      <ol>
+        <li>
+          Provide third party services to obtain compensation;
+        </li>
+        
         <li>
           Apply for initial funding by submitting a proposal.
         </li>
@@ -837,7 +841,7 @@ The rights and obligations of each role in the entire ecology are closely relate
 
     代币持有者 Token Holder
     获得代币-获得提供服务后的报酬
-
+    
 
     第三方服务提供商
     锁定代币-提请提案请求
@@ -846,7 +850,7 @@ The rights and obligations of each role in the entire ecology are closely relate
     申请提案
     项目资金申请提案
     争议仲裁提请提案
-
+    
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/2bbbe1ace0c09779aa75ace151b62e90.png)
 
@@ -870,7 +874,7 @@ The rights and obligations of each role in the entire ecology are closely relate
 1. 每一个账户可以投 X 个区块生产节点（待定）；
 
 2. 代币持有者的投票权重主要由两个变量决定：
-   
+    
     1. 账户中持有的代币数量，数量越大，权重越大；
     
     2. 代币持有者选择投票锁定代币的时间，时间越长，权重越大。
@@ -942,13 +946,13 @@ The rights and obligations of each role in the entire ecology are closely relate
 > 锁定的时间，使更多长期代币持有者拥有更大的决策权。
 > 
 > 2. 代币持有者投票选举区块生产节点（BP），防止他们滥权。
->    
+>     
 >     洞而滥权。
 >     
 >     行终审，必要时可行使一票否决权，避免系统治理节点（GN）权力过大。
 > 
 > 3. 所有决议通过与否由系统治理节点（GN）进行投票表决，保证区块生产节点（
->    
+>     
 >     BP）的职责限制在维护系统的层面上，把系统的主要决策权交由另一方（GN）， 防止出现EOS中BP可以随意锁定账户的情况。
 
 ## <./media/image54.png>
