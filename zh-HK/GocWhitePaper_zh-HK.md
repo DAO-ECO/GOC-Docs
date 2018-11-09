@@ -459,9 +459,9 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
 
 **3.3.1 Token 持有者**
 
-<table class="table table-bordered table-striped table-condensed">
+<table valign="middle">
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
+    <td bgcolor="#f6f8fa" align="center" width="150px">
       角色描述
     </td>
     
@@ -471,7 +471,7 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       基本要求
     </td>
     
@@ -481,7 +481,7 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       权利和义务
     </td>
     
@@ -507,7 +507,7 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       系统中使用代币
     </td>
     
@@ -537,7 +537,7 @@ GOC 公链治理方面主要的参与角色包括：代币持有者、区块生�
   </tr>
   
   <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
+    <td bgcolor="#f6f8fa" align="center">
       系统中获取代币
     </td>
     
