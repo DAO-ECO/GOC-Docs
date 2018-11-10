@@ -350,10 +350,10 @@ Figure 2 Governance role mutual restriction
     系统治理节点（GN） Governance Node (GN)
     
 
-    少量代币持有者（散户） a Small Number of Token Holders (Individual) 
+    少量代币持有者（散户） Individual Holders 
     
 
-    大量代币持有者（大户） a Large Number of Token Holder (Large household)
+    大量代币持有者（大户） Major Holders
     
 
     制约 Restrict
@@ -816,10 +816,9 @@ Figure 5 Relevant ecology around tokens holders
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/99a5cdfe10dd40af2156f112147c459f.png)
 
-图 8 围绕第三方服务提供商的相关生态
+Figure 8 Relevant ecology around third-party service providers
 
-    代币持有者 Token Holder
-    获得代币-获得提供服务后的报酬
+    Tokens holder <div class= "notranslate" >0 </div> obtain tokens - get paid for providing service
     
 
     第三方服务提供商 Third-party Service Provider
