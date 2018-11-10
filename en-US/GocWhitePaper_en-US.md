@@ -617,12 +617,7 @@ Figure 6 Relevant ecology of BP
     Block producer (BP) <div class= "notranslate" >0 </div> Maintaining network operation
     
 
-    系统治理节点（GN）  
-    投票初步通过  
-    有权行使一票否决权  
-    申请提案  
-    A.项目资金申请提案  
-    B.争议仲裁提请提案
+    Governance Node (GN) <div class= "Notranslate" >0 </div> votes initially pass <div class= "Notranslate" >1 </div> entitled to exercise one-vote veto <div class= "Notranslat E ">2 </div> Proposal submission<div class=" Notranslate ">3 </div> A. Project funding proposal submission <div class=" Notranslate ">4 </div> b. Dispute arbitration proposal submission
     
 
 **3.3.3 Governance Node (GN)**
@@ -646,15 +641,15 @@ Figure 6 Relevant ecology of BP
     <td>
       <ol>
         <li>
-          需要质押一部分代币作为抵押；
+          Need to pledge a portion of tokens as collateral;
         </li>
         
         <li>
-          需要运行相关软件；
+          Need to run the relevant software;
         </li>
         
         <li>
-          其他方面待定（例如信息披露等）。
+          Other aspects to be determined (e.g. disclosure of information, etc.).
         </li>
       </ol>
     </td>
@@ -668,11 +663,11 @@ Figure 6 Relevant ecology of BP
     <td>
       <ol>
         <li>
-          对资金申请提案进行审核，投票选出优秀的项目，将一部分通胀代币作为资金 支持这些项目发展；
+          Review the funding application proposals, vote for excellent projects, and use some of the inflation tokens as funds to support the development of these projects;
         </li>
         
         <li>
-          审阅仲裁双方提供的材料，投票决定是否支持请求。
+          Review the material provided by both parties to the arbitration and vote on whether to support the request.
         </li>
       </ol>
     </td>
@@ -684,7 +679,7 @@ Figure 6 Relevant ecology of BP
     </td>
     
     <td>
-      成为GN需要质押一部分代币。
+      Becoming GN requires a pledge of a portion of tokens.
     </td>
   </tr>
   
