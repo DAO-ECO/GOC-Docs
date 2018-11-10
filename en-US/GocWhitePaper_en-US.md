@@ -388,8 +388,7 @@ Figure 3 Diagram of governance role relationships
     DAPP developer <div class= "Notranslate" >0 </div> develope and provide DAPP
     
 
-    第三方服务提供商  
-    提供第三方服务
+    Third-party service providers <div class= "Notranslate" >0 </div> Provide third party services
     
 
 ## 3.3 Basic restrictions between ecological roles
@@ -400,15 +399,9 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/729642e7e1d96aee0e8860afa5bbc76d.png)
 
-图 4 治理系统运作流程
+Figure 4 Governance System Operation Process
 
-    代币持有者  
-    锁定代币、投票选出BP  
-    持有币越多，权重越大  
-    锁定时间长，权重越大  
-    锁定一定数量代币作为抵押  
-    自愿加入，数量不限  
-    支付一定数量代币，申请提案
+    Tokens holder <div class= "notranslate" >0 </div> to lock tokens and vote for BP <div class= "notranslate" >1 </div> the more coins held, the greater the voting weight <div class= "Notransla  TE ">2 </div> the longer time locked, the greater the voting weight <div class=" Notranslate ">3 </div> to lock a certain number of tokens as collateral <div class=" Notranslate ">4 </div> voluntary participation, no cap on number of holders <div class= "Notranslate" >5 </div> to pay a certain amount of tokens and apply for proposals
     
 
     A.项目资金申请提案  
