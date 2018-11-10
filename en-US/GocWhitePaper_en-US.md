@@ -401,26 +401,19 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 Figure 4 Governance System Operation Process
 
-    Tokens holder <div class= "notranslate" >0 </div> to lock tokens and vote for BP <div class= "notranslate" >1 </div> the more coins held, the greater the voting weight <div class= "Notransla  TE ">2 </div> the longer time locked, the greater the voting weight <div class=" Notranslate ">3 </div> to lock a certain number of tokens as collateral <div class=" Notranslate ">4 </div> voluntary participation, no cap on number of holders <div class= "Notranslate" >5 </div> to pay a certain amount of tokens and apply for proposals
+    Tokens holder <div class= "notranslate" >0 </div> lock tokens and vote for BP <div class= "notranslate" >1 </div> the more coins held, the greater the voting weight <div class= "Notransla  TE ">2 </div> the longer time locked, the greater the voting weight <div class=" Notranslate ">3 </div> lock a certain number of tokens as collateral <div class=" Notranslate ">4 </div> voluntary participation, no cap on number of holders <div class= "Notranslate" >5 </div> pay a certain amount of tokens and apply for proposals
     
 
-    A.项目资金申请提案  
-    建立在区块链上的项目资金申请，推动生态发展  
-    B.争议仲裁提请提案  
-    需要仲裁方仲裁的争议
-    提案交由GN进行投票
+    A. Proposal for project funding applications <div class= "Notranslate" >0 </div> Applications for blockchain based project funding are to promote ecological development <div class= "Notranslate" >1 </div> b. Dispute arbitration request for proposals <DIV C lass= "Notranslate" >2 </div> disputes requiring arbitration by arbitrators <div clas  s= "Notranslate" >3 </div> Proposal submitted to GN for voting
     
 
-    锁定代币，进行公投等其他活动  
-    购买使用  
-    支付服务相关费用
+    Lock tokens, conduct other activities such as referendums <div class= "notranslate" >0 </div> purchase and use <div class= "Notranslate" >1 </div> pay for service-related costs
     
 
     dApp 开发者 dApp Developer
     
 
-    第三方服务提供商  
-    提供仲裁相关服务，例如公正、尽职调查、审计等
+    Third-party service providers <div class= "Notranslate" >0 </div> provide arbitration-related services such as fairness, due diligence, auditing, etc.
     
 
     区块生产节点（BP）  
@@ -536,7 +529,7 @@ Figure 4 Governance System Operation Process
         </li>
         
         <li>
-          提请提案获得通过获得奖励 / 赔偿
+          Submit a proposal to get a reward/compensation
         </li>
       </ol>
     </td>
@@ -545,14 +538,12 @@ Figure 4 Governance System Operation Process
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
 
-图 5 围绕代币持有者的相关生态
+Figure 5 Relevant ecology around tokens holders
 
-    代币持有者  
-    支付代币-购买第三方服务
+    Tokens holder <div class= "notranslate" >0 </div> pay tokens to purchase of third party services
     
 
-    第三方服务提供商  
-    支付代币-购买dApp
+    Third-party service providers <div class= "Notranslate" >0 </div> pay tokens to purchase dApp
     
 
     dApp 开发者 dApp Developer
