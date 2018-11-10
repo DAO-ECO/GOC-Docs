@@ -455,7 +455,7 @@ Figure 5 Relevant ecology around tokens holders
     dApp Developers
     
 
-    Proposal Submission <div class= "Notranslate" >0 </div> Lock tokens to submit a proposal <div class= "notranslate" >1 </div> pay tokens as proposal fees <div class= "Notransla TE ">2 </div> obtain tokens - if the proposal is passed and appeals granted <div class=" notranslate ">3 </div> A. Project funding proposal submission <div class=" Notranslate ">4 </div> B. Dispute arbitration proposal submission.
+    Proposal Submission <div class= "Notranslate" >0 </div> Lock tokens - Request to submit a proposal <div class= "notranslate" >1 </div> Pay tokens as proposal fees <div class= "Notransla TE ">2 </div> obtain tokens - if the proposal is passed and appeals granted <div class=" notranslate ">3 </div> A. Project funding application proposal <div class=" Notranslate ">4 </div> B. Dispute arbitration request proposal
     
 
     Lock tokens to become GN <div class= "notranslate" >0 </div> Pay tokens (inflation) - token inflation to be paid as GN's compensation <div class= "Notranslate" >1 </div> to obtain tokens - get paid by voting as a GN <div class= "notranslate" >2 </div> Governance Node (GN)
@@ -575,25 +575,19 @@ Figure 8 Relevant ecology around third-party service providers
     Tokens holder <div class= "notranslate" >0 </div> obtain tokens - get paid for providing service
     
 
-    第三方服务提供商 Third-party Service Provider
-    锁定代币-提请提案请求
-    支付代币-支付提案费用
-    获得代币-若提案通过获得相应诉求
-    申请提案
-    项目资金申请提案
-    争议仲裁提请提案
+    Third-party service providers <div class= "Notranslate" >0 </div>  Lock tokens - Request to submit a proposal <div class= "notranslate" >1 </div> Pay tokens as proposal fees <div class= "Notransla TE ">2 </div> obtain tokens - if the proposal is passed and appeals granted <div class=" notranslate ">3 </div> A. Project funding application proposal <div class=" Notranslate ">4 </div> B. Dispute arbitration request proposal
     
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/2bbbe1ace0c09779aa75ace151b62e90.png)
 
 **3.3.5 dApp 开发者**
 
-| **chapter 3** | 基本要求                                      | 系统使用者，利用系统开发 dApp。 |
-| ------------- | ----------------------------------------- | ------------------ |
-| 基本要求          | 无。如果没有初始资金，dApp 开发者可以通过发起项目资金申请提案来获取启动资金。 |                    |
-| 权利和义务         | 为代币持有者提供 dApp                             |                    |
-| 系统中使用代币       | 无。                                        |                    |
-| 系统中获取代币       | 开发 dApp 获取回报。                             |                    |
+| **chapter 3**      | Basic Requirements                        | System users, using the system to develop DAPP. |
+| ------------------ | ----------------------------------------- | ----------------------------------------------- |
+| Basic Requirements | 无。如果没有初始资金，dApp 开发者可以通过发起项目资金申请提案来获取启动资金。 |                                                 |
+| 权利和义务              | 为代币持有者提供 dApp                             |                                                 |
+| 系统中使用代币            | 无。                                        |                                                 |
+| 系统中获取代币            | 开发 dApp 获取回报。                             |                                                 |
 
 > 投票的权重除了取决于持有币的多少，更取决于持有者选择投票锁定期的长度。长期持有者是对系统长期看好的投资者，他们更在意系统的长期发展，因此也更会慎重地行使投票权，选出更好的区块生产节点，这主要是为了避免手上持有大量代币的投资者对区块生产节点拥有过大的控制权，减少短期投机者对系统的波动风险。具体步骤
 
