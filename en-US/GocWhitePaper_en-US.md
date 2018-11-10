@@ -366,7 +366,17 @@ The detailed interaction between the governance roles can be seen in Figure 3. A
 
 Figure 3 Diagram of governance role relationships
 
-    Tokens holder <div class= "Notranslate" >0 </div> (1) Vote for <div class= "Notranslate" >1 </div> (2) Token inflation payment <div class= "Notranslat E ">2 </div> (1) lock tokens to become GN <div class=" Notranslate ">3 </div> (2) Token inflation payment <div class=" Notranslate ">4 </div> conduct referendum for decisions involving code modifications (such as governance parameters, system inflation distribution, etc.) <div class= "notranslate" >5 </div> dapp ecosystem <div class= "notranslate" >6 </div> (1) Purchasing and using Dapp <div class= " Notranslate ">7 </div> (2) Tokens inflation gains provide financial support for excellent dapp <div class=" Notranslate ">8 </div> (1) Select <div class=" Notranslate ">9 </div> (2) Payment of service fee
+    代币持有者 Tokens holder  
+    (1)投票选举产生 (1) Vote for  
+    (2)代币通胀支付报酬 (2) Token inflation payment  
+    (1)锁定代币成为GN (1) lock tokens to become GN  
+    (2)代币通胀支付报酬 (2) Token inflation payment  
+    针对涉及代码修改（如治理参数、系统通胀分配等）的决定进行公投 conduct referendum for decisions involving code modifications (such as governance parameters, system inflation distribution, etc.)  
+    dApp生态系统  dApp Ecosystem
+    (1)购买使用dApp (1) Purchasing and using Dapp  
+    (2)代币通胀收益为优秀的dApp提供资金支持 (2) Tokens inflation gains provide financial support for excellent dapp  
+    (1)选择 (1) Select  
+    (2)支付服务费用 (2) Payment of service fee
     
 
     Block producer (BP) <div class= "notranslate" >0 </div> Maintaining system operation <div class= "Notranslate" >1 </div> BP as a whole exercise one-vote veto to prevent GN abuse of power
