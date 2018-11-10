@@ -542,9 +542,7 @@ Figure 5 Relevant ecology around tokens holders
     Lock tokens - vote on resolutions involving codes <DIV class= "notranslate" >0 </div> referendum
     
 
-    锁定代币-投票选举BP  
-    支付代币（通胀）-手中代币通胀支付BP的报酬  
-    区块生产节点（BP）
+    Lock tokens - vote for BP <div class= "notranslate" >0 </div> Pay tokens (inflation) - token inflation as payment of BP's compensation <div class= "Notranslate" >1 </div> block producer (BP)
     
 
 **3.3.2 Block Producer (BP)**
@@ -566,7 +564,7 @@ Figure 5 Relevant ecology around tokens holders
     </td>
     
     <td>
-      At least have minimum resources and technical support, other requirements are pending
+      At least have minimum resources and technical support, other requirements to be determined
     </td>
   </tr>
   
