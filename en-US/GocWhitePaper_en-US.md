@@ -533,17 +533,13 @@ Figure 5 Relevant ecology around tokens holders
     dApp Developers
     
 
-    Proposal Submission <div class= "Notranslate" >0 </div> Lock tokens to submit a proposal <div class= "notranslate" >1 </div> pay tokens as proposal fees <div class= "Notransla TE ">2 </div> obtain tokens - if the proposal is passed <div class=" notranslate ">3 </div> A. Project funding proposal submission <div class=" Notranslate ">4 </div> B. Dispute arbitration proposal submission.
+    Proposal Submission <div class= "Notranslate" >0 </div> Lock tokens to submit a proposal <div class= "notranslate" >1 </div> pay tokens as proposal fees <div class= "Notransla TE ">2 </div> obtain tokens - if the proposal is passed and appeals granted <div class=" notranslate ">3 </div> A. Project funding proposal submission <div class=" Notranslate ">4 </div> B. Dispute arbitration proposal submission.
     
 
-    锁定代币-成为GN  
-    支付代币（通胀）-手中代币通膷支付GN的报酬  
-    获得代币-作为GN投票获得报酬  
-    系统治理节点（GN）
+    Lock tokens to become GN <div class= "notranslate" >0 </div> Pay tokens (inflation) - token inflation to be paid as GN's compensation <div class= "Notranslate" >1 </div> to obtain tokens - get paid by voting as a GN <div class= "notranslate" >2 </div> Governance Node (GN)
     
 
-    锁定代币-对涉及代码的决议进行投票  
-    公投
+    Lock tokens - vote on resolutions involving codes <DIV class= "notranslate" >0 </div> referendum
     
 
     锁定代币-投票选举BP  
