@@ -410,7 +410,7 @@ Figure 4 Governance System Operation Process
     Lock tokens, conduct other activities such as referendums <div class= "notranslate" >0 </div> purchase and use <div class= "Notranslate" >1 </div> pay for service-related costs
     
 
-    dApp 开发者 dApp Developer
+    dApp Developers
     
 
     Third-party service providers <div class= "Notranslate" >0 </div> provide arbitration-related services such as fairness, due diligence, auditing, etc.
