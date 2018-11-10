@@ -425,99 +425,21 @@ Figure 4 Governance System Operation Process
 **3.3.1 Token holder**
 
 <table>
-  <tr>
-    <td align="center" valign="middle" width="150px">
-      Role Description
-    </td>
-    
-    <td valign="middle">
-      The ultimate owner of the system
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" valign="middle">
-      Basic Requirements
-    </td>
-    
-    <td valign="middle">
-      as long as one holds the token
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" valign="middle">
-      Rights and Obligations
-    </td>
-    
-    <td valign="middle">
-      <ol>
-        <li>
-          Vote to generate Block Producers (BP)
-        </li>
-        
-        <li>
-          Lock tokens to join the Governance node (GN)
-        </li>
-        
-        <li>
-          Pay a certain amount of tokens to submit the proposal
-        </li>
-        
-        <li>
-          Other actions, such as a referendum, actions involving code changes (including governance parameters, system inflation allocation, etc.) must be agreed by a referendum.
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" valign="middle">
-      Use tokens in the system
-    </td>
-    
-    <td valign="middle">
-      <ol>
-        <li>
-          Lock tokens to vote on block producers
-        </li>
-        
-        <li>
-          Lock tokens to join governance node
-        </li>
-        
-        <li>
-          Pay a certain amount of tokens to submit the proposal
-        </li>
-        
-        <li>
-          If the proposal is filed and finally passed, tokens will be paid as compensation and third-party service used will be paid.
-        </li>
-        
-        <li>
-          Lock the token to conduct a referendum
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" valign="middle">
-      Obtain tokens in the system
-    </td>
-    
-    <td valign="middle">
-      <ol>
-        <li>
-          Join the governance node to get governance voting earnings
-        </li>
-        
-        <li>
-          Submit a proposal to get a reward/compensation
-        </li>
-      </ol>
-    </td>
-  </tr>
+    <tr>
+        <td align="center" valign="middle" width="150px">Role Description</td><td valign="middle">The ultimate owner of the system</td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">Basic Requirements</td><td valign="middle">as long as one holds the token</td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">Rights and Obligations</td><td valign="middle"><ol><li>Vote to generate Block Producers (BP)</li><li>Lock tokens to join the Governance node (GN)</li><li>Pay a certain amount of tokens to submit the proposal</li><li>Other actions, such as a referendum, actions involving code changes (including governance parameters, system inflation allocation, etc.) must be agreed by a referendum.</li></ol></td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">Use tokens in the system</td><td valign="middle"><ol><li>Lock tokens to vote on block producers</li><li>Lock tokens to join governance node</li><li>Pay a certain amount of tokens to submit the proposal</li><li>If the proposal is filed and finally passed, tokens will be paid as compensation and third-party service used will be paid.</li><li>Lock the token to conduct a referendum</li></ol></td>
+    </tr>
+    <tr>
+        <td align="center" valign="middle">Obtain tokens in the system</td><td valign="middle"><ol><li>Join the governance node to get governance voting earnings</li><li>Submit a proposal to get a reward/compensation</li></ol></td>
+    </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/4e8a27d21b285bcb44ca8bf2bb191175.png)
@@ -548,63 +470,26 @@ Figure 5 Relevant ecology around tokens holders
 **3.3.2 Block Producer (BP)**
 
 <table class="table table-bordered table-striped table-condensed">
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
-      Role Description
-    </td>
-    
-    <td>
-      As the maintainer of the blockchain (to produce blocks), Block Producers do not have much power, but serve as the last ditch in the system.
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Basic Requirements
-    </td>
-    
-    <td>
-      At least have minimum resources and technical support, other requirements to be determined
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Rights and Obligations
-    </td>
-    
-    <td>
-      <ol>
-        <li>
-          Produce blocks to maintain normal operation of the main chain
-        </li>
-        
-        <li>
-          If the governance node GN makes major mistakes in decisioning, or its decision is seriously deviated from fairness and harms the interests of the system, then the collective veto right can be exercised to prevent decision implementation.
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Tokens are used in the system
-    </td>
-    
-    <td>
-      No
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Obtain tokens in the system
-    </td>
-    
-    <td>
-      A portion of the inflation gains will be awarded to the block producers as a system maintenance earnings.
-    </td>
-  </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">Role Description</td>
+        <td>As the maintainer of the blockchain (to produce blocks), Block Producers do not have much power, but serve as the last ditch in the system.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Basic Requirements</td>
+    <td>At least have minimum resources and technical support, other requirements to be determined</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Rights and Obligations</td>
+        <td><ol><li>Produce blocks to maintain normal operation of the main chain</li><li>If the governance node GN makes major mistakes in decisioning, or its decision is seriously deviated from fairness and harms the interests of the system, then the collective veto right can be exercised to prevent decision implementation.</li></ol></td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Tokens are used in the system</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Obtain tokens in the system</td>
+        <td>A portion of the inflation gains will be awarded to the block producers as a system maintenance earnings.</td>
+    </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/226da22590d260bc732f3102f8532e4d.png)
@@ -617,97 +502,42 @@ Figure 6 Relevant ecology of BP
     Block producer (BP) <div class= "notranslate" >0 </div> Maintaining network operation
     
 
-    Governance Node (GN) <div class= "Notranslate" >0 </div> votes initially pass <div class= "Notranslate" >1 </div> entitled to exercise one-vote veto <div class= "Notranslat E ">2 </div> Proposal submission<div class=" Notranslate ">3 </div> A. Project funding proposal submission <div class=" Notranslate ">4 </div> b. Dispute arbitration proposal submission
+    Governance Node (GN) <div class= "Notranslate" >0 </div> votes initially pass <div class= "Notranslate" >1 </div> entitled to exercise one-vote veto <div class= "Notranslat E ">2 </div> Proposal submission<div class=" Notranslate ">3 </div> A. Project funding application proposal <div class=" Notranslate ">4 </div> b. Dispute arbitration request proposal
     
 
 **3.3.3 Governance Node (GN)**
 
 <table class="table table-bordered table-striped table-condensed">
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
-      Role Description
-    </td>
-    
-    <td>
-      New role. Different from the Block Producer (BP), the threshold of the The Governance Node (GN) is not high, and the number does not have an upper limit. Only set the number of locked tokens, so that the token holders who have a small number of tokens but actively participate in community governance can fully participate in the governance system. The GN voting weight is one node and one vote, the weight is no longer determined according to the number of tokens in the EOS system. Head count instead of vote count, and the risk of controlling the system of participants holding a large number of tokens is reduced.
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Basic requirements
-    </td>
-    
-    <td>
-      <ol>
-        <li>
-          Need to pledge a portion of tokens as collateral;
-        </li>
-        
-        <li>
-          Need to run the relevant software;
-        </li>
-        
-        <li>
-          Other aspects to be determined (e.g. disclosure of information, etc.).
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Rights and Obligations
-    </td>
-    
-    <td>
-      <ol>
-        <li>
-          Review the funding application proposals, vote for excellent projects, and use some of the inflation tokens as funds to support the development of these projects;
-        </li>
-        
-        <li>
-          Review the material provided by both parties to the arbitration and vote on whether to support the request.
-        </li>
-      </ol>
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Tokens are used in the system.
-    </td>
-    
-    <td>
-      Becoming GN requires a pledge of a portion of tokens.
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Obtain tokens in the system
-    </td>
-    
-    <td>
-      一部分通胀收益将奖励给系统治理节点GN作为其投票回报，只有履行了投票义 务的GN才有获取回报的资格。
-    </td>
-  </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">Role Description</td>
+        <td>New role. Different from the Block Producer (BP), the threshold of the The Governance Node (GN) is not high, and the number does not have an upper limit. Only set the number of locked tokens, so that the token holders who have a small number of tokens but actively participate in community governance can fully participate in the governance system. The GN voting weight is one node and one vote, the weight is no longer determined according to the number of tokens in the EOS system. Head count instead of vote count, and the risk of controlling the system of participants holding a large number of tokens is reduced.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Basic requirements</td>
+    <td><ol><li>Need to pledge a portion of tokens as collateral;</li><li>Need to run the relevant software;</li><li>Other aspects to be determined (e.g. disclosure of information, etc.).</li></ol></td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Rights and Obligations</td>
+        <td><ol><li>Review the funding application proposals, vote for excellent projects, and use some of the inflation tokens as funds to support the development of these projects;</li><li>Review the material provided by both parties to the arbitration and vote on whether to support the request.</li></ol></td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Tokens are used in the system.</td>
+        <td>Becoming GN requires a pledge of a portion of tokens.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Obtain tokens in the system</td>
+        <td>Some of the inflation gains will be rewarded to the governance node GN as its vote return. Only GNs have fulfilled voting obligations are qualified to obtain returns <div class= "notranslate" > </div> </td>
+    </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/ae2bdaab3894c2d8e8fce432932e72f3.png)
 
-图 7 围绕系统治理节点的相关生态
+Figure 7 Relevant ecology around the governance node
 
-    代币持有者 Token Holder  
-    成为GN Become GN  
-    获得代币-代币通胀收益一部分支付GN的报酬
+    Tokens holder <div class= "notranslate" >0 </div> becomes GN <div class= "Notranslate" >1 </div> to receive tokens - part of tokens inflation return as payment of GN
     
 
-    系统治理节点（GN）  
-    对提案进行投票决议，通过后交由BP  
-    申请提案  
-    项目资金申请提案  
-    争议仲裁提请提案
+    Governance Node (GN) <div class= "Notranslate" >0 </div> to vote on the proposal and submit it to BP <div class= "Notranslate" >1 </div> Proposal submission <div class= "NOTR Anslate ">2 </div> Project funding application proposal <div class=" Notranslate ">3 </div> Dispute arbitration request proposal
     
 
     区块生产节点（BP） Block Producer (BP)
@@ -716,63 +546,26 @@ Figure 6 Relevant ecology of BP
 **3.3.4 Third-party Service Provider**
 
 <table class="table table-bordered table-striped table-condensed">
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">
-      Role Description
-    </td>
-    
-    <td>
-      To provide third-party services to the ecosystem, including audition, notarization, and due diligence for the arbitration process.
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Basic requirements
-    </td>
-    
-    <td>
-      None. If there is no initial funding, the third-party service provider can obtain start-up funds by initiating a project funding request proposal.
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Rights and Obligations
-    </td>
-    
-    <td>
-      Provide third party services to relevant token holders.
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Tokens are used in the system.
-    </td>
-    
-    <td>
-      No
-    </td>
-  </tr>
-  
-  <tr>
-    <td bgcolor="#f6f8fa" align="center" valign="middle">
-      Obtain tokens in the system
-    </td>
-    
-    <td>
-      <ol>
-        <li>
-          Provide third party services to obtain compensation;
-        </li>
-        
-        <li>
-          Apply for initial funding by submitting a proposal.
-        </li>
-      </ol>
-    </td>
-  </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">Role Description</td>
+        <td>To provide third-party services to the ecosystem, including audition, notarization, and due diligence for the arbitration process.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Basic requirements</td>
+    <td>None. If there is no initial funding, the third-party service provider can obtain start-up funds by initiating a project funding request proposal.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Rights and Obligations</td>
+        <td>Provide third party services to relevant token holders.</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Tokens are used in the system.</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td bgcolor="#f6f8fa" align="center" valign="middle">Obtain tokens in the system</td>
+        <td><ol><li>Provide third party services to obtain compensation;</li><li>Apply for initial funding by submitting a proposal.</li></ol></td>
+    </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/99a5cdfe10dd40af2156f112147c459f.png)
