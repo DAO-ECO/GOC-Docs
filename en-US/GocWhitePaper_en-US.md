@@ -533,12 +533,7 @@ Figure 5 Relevant ecology around tokens holders
     dApp Developers
     
 
-    申请提案  
-    锁定代币-提请提案请求  
-    支付代币-支付提案费用  
-    获得代币-若提案通过获得相应诉求  
-    A.项目资金申请提案  
-    B.争议仲裁提请提案
+    Proposal Submission <div class= "Notranslate" >0 </div> Lock tokens to submit a proposal <div class= "notranslate" >1 </div> pay tokens as proposal fees <div class= "Notransla TE ">2 </div> obtain tokens - if the proposal is passed <div class=" notranslate ">3 </div> A. Project funding proposal submission <div class=" Notranslate ">4 </div> B. Dispute arbitration proposal submission.
     
 
     锁定代币-成为GN  
