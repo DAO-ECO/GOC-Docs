@@ -609,19 +609,12 @@ Figure 5 Relevant ecology around tokens holders
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/226da22590d260bc732f3102f8532e4d.png)
 
-图 6 围绕区块生产节点的相关生态
+Figure 6 Relevant ecology of BP
 
-    代币持有者  
-    使用  
-    区块链网络  
-    投票选举BP  
-    获得代币-代币通胀收益一部分成为BP的报酬  
-    通过公投决定影响BP的参数  
-    公投
+    Tokens holder <div class= "notranslate" >0 </div> usage <div class= "notranslate" >1 </div> Blockchain network <div class= "Notranslate" >2 </div> vote for BP <div class= "notranslate" >3 </div> obtain tokens - tokens inflation gains as part of BP's compensation <div class= "Notranslate" >4 </div> parameters affecting BP to be determined through the referendum <div Clas s= "Notranslate" >5 </div> referendum
     
 
-    区块生产节点（BP）  
-    维护网络运行
+    Block producer (BP) <div class= "notranslate" >0 </div> Maintaining network operation
     
 
     系统治理节点（GN）  
