@@ -582,12 +582,12 @@ Figure 8 Relevant ecology around third-party service providers
 
 **3.3.5 dApp 开发者**
 
-| **chapter 3**      | Basic Requirements                        | System users, using the system to develop DAPP. |
-| ------------------ | ----------------------------------------- | ----------------------------------------------- |
-| Basic Requirements | 无。如果没有初始资金，dApp 开发者可以通过发起项目资金申请提案来获取启动资金。 |                                                 |
-| 权利和义务              | 为代币持有者提供 dApp                             |                                                 |
-| 系统中使用代币            | 无。                                        |                                                 |
-| 系统中获取代币            | 开发 dApp 获取回报。                             |                                                 |
+| **chapter 3**               | Basic Requirements                                                                                                              | System users, using the system to develop DAPP. |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Basic Requirements          | None. If without initial funding, DAPP developers can obtain startup funds by initiating project funding application proposals. |                                                 |
+| Rights and Obligations      | Provide dApp for tokens holders                                                                                                 |                                                 |
+| Use tokens in the system    | None.                                                                                                                           |                                                 |
+| Obtain tokens in the system | Develop dApps to gain returns.                                                                                                  |                                                 |
 
 > 投票的权重除了取决于持有币的多少，更取决于持有者选择投票锁定期的长度。长期持有者是对系统长期看好的投资者，他们更在意系统的长期发展，因此也更会慎重地行使投票权，选出更好的区块生产节点，这主要是为了避免手上持有大量代币的投资者对区块生产节点拥有过大的控制权，减少短期投机者对系统的波动风险。具体步骤
 
