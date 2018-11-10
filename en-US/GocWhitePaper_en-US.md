@@ -416,16 +416,7 @@ Figure 4 Governance System Operation Process
     Third-party service providers <div class= "Notranslate" >0 </div> provide arbitration-related services such as fairness, due diligence, auditing, etc.
     
 
-    区块生产节点（BP）  
-    1.负责维护主链的运行  
-    2.作为系统最后的防线，对GN的决议可集体行使一票否决权  
-    系统维护收益（通胀收益支付）  
-    是否集体行使一票否决权？  
-    是  
-    提案最终未通过  
-    否  
-    提案最终通过  
-    资金发放（通胀收益支付）、仲裁要求赔偿发放
+    Block producer (BP) <div class= "Notranslate" >0 </div> 1. Responsible for maintaining the operation of the main chain <div class= "Notranslate" >1 </div> 2. As the goaltender of the system,   The resolution on GN BP can excercise collective one-vote veto on GN resolutions. <div class= "notranslate" >2 </div> system maintenance gains (paid by inflation gains) <div class= "Notranslate" >3 </div> Whether to exercise collective one-vote veto? <div class= "Notranslate" >4 </div> yes <div class= "Notranslate" >5 </div> proposal fails to pass <div class= "notranslate" >6 </div> no <div class= "Notranslate" >7 </div> proposal is passed <div class= "notranslate" >8 </div> Funds release (paid by inflation gains). Arbitration claims compensation.
     
 
     Governance Node (GN) <div class= "Notranslate" >0 </div> Responsible for voting on the resolution on blockchain governance, andthe resolution passed must be reviewed by BP <div class= "Notranslate" >1 </div>   Vote return (paid by inflation yield) <div class= "Notranslate" >2 </div> Affirmative votes more than a certain number? <div class= "Notranslate" >3 </div> deny <div class= "Notranslate" >4 </div> proposal did not pass <div class= "Notranslate" >5 </div> is <DIV cl ass= "Notranslate" >6 </div> proposal initially passed and submitted to BP for final review
@@ -539,7 +530,7 @@ Figure 5 Relevant ecology around tokens holders
     Third-party service providers <div class= "Notranslate" >0 </div> pay tokens to purchase dApp
     
 
-    dApp 开发者 dApp Developer
+    dApp Developers
     
 
     申请提案  
