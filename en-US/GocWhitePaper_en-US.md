@@ -510,7 +510,7 @@ Figure 6 Relevant ecology of BP
 <table class="table table-bordered table-striped table-condensed">
     <tr>
         <td bgcolor="#f6f8fa" align="center" valign="middle" width="150px">Role Description</td>
-        <td>New role. Different from the Block Producer (BP), the threshold of the The Governance Node (GN) is not high, and the number does not have an upper limit. Only set the number of locked tokens, so that the token holders who have a small number of tokens but actively participate in community governance can fully participate in the governance system. The GN voting weight is one node and one vote, the weight is no longer determined according to the number of tokens in the EOS system. Head count instead of vote count, and the risk of controlling the system of participants holding a large number of tokens is reduced.</td>
+        <td>Adding a new role. The threshold of becoming the governance node (GN) is not as high as that of the voter-elected block producers (BP). And there is no limit on the number of GNs. Once the tokens are locked, individual token holders that are actively participating in community governance can join the governance system. Unlike the EOS system where voting weight is determined by the number of tokens, GN voting weight is determined by headcount rather than vote count - one node equals one vote. This helps reduce the risk of major token holders controlling the system.</td>
     </tr>
     <tr>
         <td bgcolor="#f6f8fa" align="center" valign="middle">Basic requirements</td>
