@@ -423,16 +423,28 @@ Figure 4 Governance System Operation Process
     提案交由GN进行投票 Proposal submitted to GN for voting
     
 
-    Lock tokens, conduct other activities such as referendums <div class= "notranslate" >0 </div> purchase and use <div class= "Notranslate" >1 </div> pay for service-related costs
+    锁定代币，进行公投等其他活动 Lock tokens, conduct other activities such as referendums  
+    购买使用 purchase and use  
+    支付服务相关费用 pay for service-related costs
     
 
-    dApp Developers
+    dApp 开发者 dApp Developers
     
 
-    Third-party service providers <div class= "Notranslate" >0 </div> provide arbitration-related services such as fairness, due diligence, auditing, etc.
+    第三方服务提供商 Third-party service providers  
+    提供仲裁相关服务，例如公正、尽职调查、审计等 provide arbitration-related services such as fairness, due diligence, auditing, etc.
     
 
-    Block producer (BP) <div class= "Notranslate" >0 </div> 1. Responsible for maintaining the operation of the main chain <div class= "Notranslate" >1 </div> 2. As the goaltender of the system,   The resolution on GN BP can excercise collective one-vote veto on GN resolutions. <div class= "notranslate" >2 </div> system maintenance gains (paid by inflation gains) <div class= "Notranslate" >3 </div> Whether to exercise collective one-vote veto? <div class= "Notranslate" >4 </div> yes <div class= "Notranslate" >5 </div> proposal fails to pass <div class= "notranslate" >6 </div> no <div class= "Notranslate" >7 </div> proposal is passed <div class= "notranslate" >8 </div> Funds release (paid by inflation gains). Arbitration claims compensation.
+    区块生产节点（BP） Block producer (BP)  
+    1.负责维护主链的运行 1.Responsible for maintaining the operation of the main chain  
+    2.作为系统最后的防线，对GN的决议可集体行使一票否决权 2.As the goaltender of the system,   The resolution on GN BP can excercise collective one-vote veto on GN resolutions.  
+    系统维护收益（通胀收益支付） system maintenance gains (paid by inflation gains)  
+    是否集体行使一票否决权？ Whether to exercise collective one-vote veto?  
+    是 Yes  
+    提案最终未通过 proposal fails to pass  
+    否 No  
+    提案最终通过 proposal is passed  
+    资金发放（通胀收益支付）、仲裁要求赔偿发放 Funds release (paid by inflation gains). Arbitration claims compensation.
     
 
     Governance Node (GN) <div class= "Notranslate" >0 </div> Responsible for voting on the resolution on blockchain governance, andthe resolution passed must be reviewed by BP <div class= "Notranslate" >1 </div>   Vote return (paid by inflation yield) <div class= "Notranslate" >2 </div> Affirmative votes more than a certain number? <div class= "Notranslate" >3 </div> deny <div class= "Notranslate" >4 </div> proposal did not pass <div class= "Notranslate" >5 </div> is <DIV cl ass= "Notranslate" >6 </div> proposal initially passed and submitted to BP for final review
@@ -491,7 +503,9 @@ Figure 5 Relevant ecology around tokens holders
     公投 referendum
     
 
-    Lock tokens - vote for BP <div class= "notranslate" >0 </div> Pay tokens (inflation) - token inflation as payment of BP's compensation <div class= "Notranslate" >1 </div> block producer (BP)
+    锁定代币-投票选举BP Lock tokens - vote for BP  
+    支付代币（通胀）-手中代币通胀支付BP的报酬 Pay tokens (inflation) - token inflation as payment of BP's compensation  
+    区块生产节点（BP） Block Producer (BP)
     
 
 **3.3.2 Block Producer (BP)**
