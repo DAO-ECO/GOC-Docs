@@ -379,16 +379,22 @@ Figure 3 Diagram of governance role relationships
     (2)支付服务费用 (2) Payment of service fee
     
 
-    Block producer (BP) <div class= "notranslate" >0 </div> Maintaining system operation <div class= "Notranslate" >1 </div> BP as a whole exercise one-vote veto to prevent GN abuse of power
+    区块生产节点（BP） Block producer (BP)  
+    维护系统运行 Maintaining system operation  
+    BP作为一个整体行使一票否决权，防止GN滥权 BP as a whole exercise one-vote veto to prevent GN abuse of power
     
 
-    Governance Node (GN) <div class= "Notranslate" >0 </div> (1) vote on the allocation of funds <div class= "Notranslate" >1 </div> (2) Token inflation payment
+    系统治理节点（GN） Governance Node (GN)  
+    (1)投票进行资金分配  (1) vote on the allocation of funds  
+    (2)代币通胀支付报酬 (2) Token inflation payment
     
 
-    DAPP developer <div class= "Notranslate" >0 </div> develope and provide DAPP
+    dApp 开发者 dApp developer  
+    开发并提供dApp develope and provide dApp
     
 
-    Third-party service providers <div class= "Notranslate" >0 </div> Provide third party services
+    第三方服务提供商 Third-party service providers  
+    提供第三方服务 Provide third party services
     
 
 ## 3.3 Basic restrictions between ecological roles
@@ -401,7 +407,13 @@ The rights and obligations of each role in the entire ecology are closely relate
 
 Figure 4 Governance System Operation Process
 
-    Tokens holder <div class= "notranslate" >0 </div> lock tokens and vote for BP <div class= "notranslate" >1 </div> the more coins held, the greater the voting weight <div class= "Notransla  TE ">2 </div> the longer time locked, the greater the voting weight <div class=" Notranslate ">3 </div> lock a certain number of tokens as collateral <div class=" Notranslate ">4 </div> voluntary participation, no cap on number of holders <div class= "Notranslate" >5 </div> pay a certain amount of tokens and apply for proposals
+    代币持有者 Tokens holder  
+    锁定代币、投票选出BP lock tokens and vote for BP  
+    持有币越多，权重越大 the more coins held, the greater the voting weight  
+    锁定时间长，权重越大 the longer time locked, the greater the voting weight  
+    锁定一定数量代币作为抵押 lock a certain number of tokens as collateral  
+    自愿加入，数量不限 voluntary participation, no cap on number of holders  
+    支付一定数量代币，申请提案 pay a certain amount of tokens and apply for proposals
     
 
     A. Proposal for project funding applications <div class= "Notranslate" >0 </div> Applications for blockchain based project funding are to promote ecological development <div class= "Notranslate" >1 </div> b. Dispute arbitration request for proposals <DIV C lass= "Notranslate" >2 </div> disputes requiring arbitration by arbitrators <div clas  s= "Notranslate" >3 </div> Proposal submitted to GN for voting
