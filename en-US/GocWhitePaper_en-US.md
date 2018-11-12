@@ -416,7 +416,11 @@ Figure 4 Governance System Operation Process
     支付一定数量代币，申请提案 pay a certain amount of tokens and apply for proposals
     
 
-    A. Proposal for project funding applications <div class= "Notranslate" >0 </div> Applications for blockchain based project funding are to promote ecological development <div class= "Notranslate" >1 </div> b. Dispute arbitration request for proposals <DIV C lass= "Notranslate" >2 </div> disputes requiring arbitration by arbitrators <div clas  s= "Notranslate" >3 </div> Proposal submitted to GN for voting
+    A.项目资金申请提案 A.Proposal for project funding applications  
+    建立在区块链上的项目资金申请，推动生态发展 Applications for blockchain based project funding are to promote ecological development  
+    B.争议仲裁提请提案 B.Dispute arbitration request for proposals  
+    需要仲裁方仲裁的争议 disputes requiring arbitration by arbitrators 
+    提案交由GN进行投票 Proposal submitted to GN for voting
     
 
     Lock tokens, conduct other activities such as referendums <div class= "notranslate" >0 </div> purchase and use <div class= "Notranslate" >1 </div> pay for service-related costs
