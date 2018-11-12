@@ -462,10 +462,12 @@ Figure 4 Governance System Operation Process
 
 Figure 5 Relevant ecology around tokens holders
 
-    Tokens holder <div class= "notranslate" >0 </div> pay tokens to purchase of third party services
+    代币持有者 Tokens holder  
+    支付代币-购买第三方服务 pay tokens to purchase of third party services
     
 
-    Third-party service providers <div class= "Notranslate" >0 </div> pay tokens to purchase dApp
+    第三方服务提供商 Third-party service providers  
+    支付代币-购买dApp pay tokens to purchase dApp
     
 
     dApp Developers
@@ -512,13 +514,25 @@ Figure 5 Relevant ecology around tokens holders
 
 Figure 6 Relevant ecology of BP
 
-    Tokens holder <div class= "notranslate" >0 </div> usage <div class= "notranslate" >1 </div> Blockchain network <div class= "Notranslate" >2 </div> vote for BP <div class= "notranslate" >3 </div> obtain tokens - tokens inflation gains as part of BP's compensation <div class= "Notranslate" >4 </div> parameters affecting BP to be determined through the referendum <div Clas s= "Notranslate" >5 </div> referendum
+    代币持有者 Tokens holder  
+    使用 usage  
+    区块链网络 Blockchain network  
+    投票选举BP vote for BP  
+    获得代币-代币通胀收益一部分成为BP的报酬 obtain tokens - tokens inflation gains as part of BP's compensation  
+    通过公投决定影响BP的参数 parameters affecting BP to be determined through the referendum  
+    公投 referendum
     
 
-    Block producer (BP) <div class= "notranslate" >0 </div> Maintaining network operation
+    区块生产节点（BP） Block producer (BP)  
+    维护网络运行 Maintaining network operation
     
 
-    Governance Node (GN) <div class= "Notranslate" >0 </div> votes initially pass <div class= "Notranslate" >1 </div> entitled to exercise one-vote veto <div class= "Notranslat E ">2 </div> Proposal submission<div class=" Notranslate ">3 </div> A. Project funding application proposal <div class=" Notranslate ">4 </div> b. Dispute arbitration request proposal
+    系统治理节点（GN） Governance Node (GN)  
+    投票初步通过 votes initially pass  
+    有权行使一票否决权 entitled to exercise one-vote veto  
+    申请提案 Proposal submission  
+    A.项目资金申请提案 A.Project funding application proposal  
+    B.争议仲裁提请提案 B.Dispute arbitration request proposal
     
 
 **3.3.3 Governance Node (GN)**
@@ -550,10 +564,16 @@ Figure 6 Relevant ecology of BP
 
 Figure 7 Relevant ecology around the governance node
 
-    Tokens holder <div class= "notranslate" >0 </div> becomes GN <div class= "Notranslate" >1 </div> to receive tokens - part of tokens inflation return as payment of GN
+    代币持有者 Tokens holder  
+    成为GN becomes GN  
+    获得代币-代币通胀收益一部分支付GN的报酬 to receive tokens - part of tokens inflation return as payment of GN
     
 
-    Governance Node (GN) <div class= "Notranslate" >0 </div> to vote on the proposal and submit it to BP <div class= "Notranslate" >1 </div> Proposal submission <div class= "NOTR Anslate ">2 </div> Project funding application proposal <div class=" Notranslate ">3 </div> Dispute arbitration request proposal
+    系统治理节点（GN） Governance Node (GN)  
+    对提案进行投票决议，通过后交由BP to vote on the proposal and submit it to BP  
+    申请提案 Proposal submission  
+    项目资金申请提案 A.Project funding application proposal  
+    争议仲裁提请提案 B.Dispute arbitration request proposal
     
 
     区块生产节点（BP） Block Producer (BP)
@@ -588,10 +608,17 @@ Figure 7 Relevant ecology around the governance node
 
 Figure 8 Relevant ecology around third-party service providers
 
-    Tokens holder <div class= "notranslate" >0 </div> obtain tokens - get paid for providing service
+    代币持有者 Tokens holder
+    获得代币-获得提供服务后的报酬 obtain tokens - get paid for providing service
     
 
-    Third-party service providers <div class= "Notranslate" >0 </div>  Lock tokens - Request to submit a proposal <div class= "notranslate" >1 </div> Pay tokens as proposal fees <div class= "Notransla TE ">2 </div> obtain tokens - if the proposal is passed and appeals granted <div class=" notranslate ">3 </div> A. Project funding application proposal <div class=" Notranslate ">4 </div> B. Dispute arbitration request proposal
+    第三方服务提供商 Third-party service providers
+    锁定代币-提请提案请求 Lock tokens - Request to submit a proposal
+    支付代币-支付提案费用 Pay tokens as proposal fees
+    获得代币-若提案通过获得相应诉求 obtain tokens - if the proposal is passed and appeals granted
+    申请提案 Proposal submission
+    项目资金申请提案 A.Project funding application proposal
+    争议仲裁提请提案 B.Dispute arbitration request proposal
     
 
 ![](https://raw.githubusercontent.com/DAO-ECO/GOC-Docs/master/images/goc/2bbbe1ace0c09779aa75ace151b62e90.png)
