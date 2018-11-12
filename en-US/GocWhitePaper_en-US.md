@@ -447,7 +447,14 @@ Figure 4 Governance System Operation Process
     资金发放（通胀收益支付）、仲裁要求赔偿发放 Funds release (paid by inflation gains). Arbitration claims compensation.
     
 
-    Governance Node (GN) <div class= "Notranslate" >0 </div> Responsible for voting on the resolution on blockchain governance, andthe resolution passed must be reviewed by BP <div class= "Notranslate" >1 </div>   Vote return (paid by inflation yield) <div class= "Notranslate" >2 </div> Affirmative votes more than a certain number? <div class= "Notranslate" >3 </div> deny <div class= "Notranslate" >4 </div> proposal did not pass <div class= "Notranslate" >5 </div> is <DIV cl ass= "Notranslate" >6 </div> proposal initially passed and submitted to BP for final review
+    系统治理节点（GN） Governance Node (GN)  
+    负责对区块链治理方面的决议进行投票，通过的决议需经过BP审议方可通过 Responsible for voting on the resolution on blockchain governance, andthe resolution passed must be reviewed by BP  
+    投票回报（通胀收益支付） Vote return (paid by inflation yield)  
+    赞成票超过一定数量？ Affirmative votes more than a certain number?  
+    否 No  
+    提案未通过 proposal did not pass  
+    是 Yes  
+    提案初步通过，交由BP最终审核 proposal initially passed and submitted to BP for final review
     
 
 **3.3.1 Token holder**
